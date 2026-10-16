@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0038
+========================================================================
+Source Record ID: kcc_0169476283a5e211
+Idx: 1043266
+Crop: Watermelon
+State: MAHARASHTRA
+District: BEED
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+LEAF CURL ON CHILLI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+LEAF CURL ON CHILLI - Confidor super 6 ml   bavistin 30 gm  15 ml perfect  15 lit of water

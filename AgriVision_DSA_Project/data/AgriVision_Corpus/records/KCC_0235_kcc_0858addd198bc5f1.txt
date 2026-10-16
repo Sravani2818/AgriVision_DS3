@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0235
+========================================================================
+Source Record ID: kcc_0858addd198bc5f1
+Idx: 997249
+Crop: Dill Seed
+State: MADHYA PRADESH
+District: SEHORE
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+Farmer need information regarding control measures of white fly in garlic crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for Spray Daiphenthuran Pegasas 10 to 15 gram at per pump

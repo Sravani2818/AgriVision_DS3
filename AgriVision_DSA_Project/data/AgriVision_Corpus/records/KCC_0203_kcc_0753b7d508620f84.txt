@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0203
+========================================================================
+Source Record ID: kcc_0753b7d508620f84
+Idx: 2304347
+Crop: Sudan Grass
+State: UTTAR PRADESH
+District: ETAH
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+plant growth permoter sudan grass
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+kisan bhai aap Amino acid 8-10 kg ekad ki dar se prayog kare

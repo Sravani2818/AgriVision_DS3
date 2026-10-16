@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0117
+========================================================================
+Source Record ID: kcc_046762c1bdb54ad6
+Idx: 3525538
+Crop: Snap Melon
+State: TELANGANA
+District: NAGARKURNOOL
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Sowing time of musk melon
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--Advised to sow musk melon in between Jan 15 to Feb 15

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0192
+========================================================================
+Source Record ID: kcc_06e4d7590a7a737b
+Idx: 852746
+Crop: Kodo Millet KodaraVaragu
+State: ANDHRA PRADESH
+District: ANANTPUR
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+korra seed var
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+prasadh srilaxmi krishna

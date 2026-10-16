@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0375
+========================================================================
+Source Record ID: kcc_0e470b9a43566694
+Idx: 3755229
+Crop: Oil palm
+State: ANDHRA PRADESH
+District: Y S R
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+FARMER ASKED QUERY ON OIL PALM CULTIVATION INFORMATION-SPACING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+OIL PALM-  9x9 x9     9x9    2   60  x 60  x 60   x x

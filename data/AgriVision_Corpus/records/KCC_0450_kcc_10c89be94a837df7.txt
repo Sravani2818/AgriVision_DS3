@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0450
+========================================================================
+Source Record ID: kcc_10c89be94a837df7
+Idx: 1918176
+Crop: Kokum
+State: KERALA
+District: KOLLAM
+Sector: HORTICULTURE
+Query Type: Nursery Management
+
+FARMER QUERY
+--------------------
+propagation method in garcinia
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended to grafting

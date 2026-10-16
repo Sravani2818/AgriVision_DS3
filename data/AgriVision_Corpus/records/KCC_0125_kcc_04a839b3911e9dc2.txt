@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0125
+========================================================================
+Source Record ID: kcc_04a839b3911e9dc2
+Idx: 2239495
+Crop: Common Millet PanivaraguChenaProso MilletHogm
+State: MAHARASHTRA
+District: YEVATMAL
+Sector: AGRICULTURE
+Query Type: Bio-Pesticides and Bio-Fertilizers
+
+FARMER QUERY
+--------------------
+WEED MANAGEMENT IN SOYABEAN
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Pursuit Imazethapyr 20 ml10 liter of water

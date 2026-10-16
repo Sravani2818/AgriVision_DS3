@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0368
+========================================================================
+Source Record ID: kcc_0dfba20cee705db1
+Idx: 1667466
+Crop: Cocoa
+State: TAMILNADU
+District: KARUR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+asking about cocoa season
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for cocoa season January- February

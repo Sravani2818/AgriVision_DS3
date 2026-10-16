@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0188
+========================================================================
+Source Record ID: kcc_06bb843d2afc191e
+Idx: 1131243
+Crop: Bottle Gourd
+State: RAJASTHAN
+District: JAIPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+TELL ME PEST AND FUNGAS CONTROL IN BOTTLE  GOURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF MENCOJEB 2GM  ACEPHATE 75 SP 2 GM PER LITER WATER

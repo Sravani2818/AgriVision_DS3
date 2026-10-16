@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0130
+========================================================================
+Source Record ID: kcc_04e2fdc51b1e6eb8
+Idx: 1437634
+Crop: Cinnamon
+State: GUJARAT
+District: BANAS KANTHA
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+Ask about general information
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+all information provided - thanks for calling in kisan call centre

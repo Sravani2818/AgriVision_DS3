@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0486
+========================================================================
+Source Record ID: kcc_12461de1e0453779
+Idx: 1664626
+Crop: Dhaincha
+State: TAMILNADU
+District: VIRUDHUNAGAR
+Sector: AGRICULTURE
+Query Type: Seeds
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+seed rate for green manure production
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for the seed rate is DHAINCHA 8kgac spacing is 42X20cm duration is 100days

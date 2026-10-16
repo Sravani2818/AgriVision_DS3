@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0490
+========================================================================
+Source Record ID: kcc_1271a4c8a3495690
+Idx: 297249
+Crop: Lettuce
+State: TRIPURA
+District: NORTH TRIPURA
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+ASKING ABOUT THE LETTUCE NUTRIENT MANAGEMENT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+EXPLAIN IN DETAILS

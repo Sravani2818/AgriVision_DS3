@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0361
+========================================================================
+Source Record ID: kcc_0d9d1ccb6361fcce
+Idx: 2023602
+Crop: Snake Gourd
+State: TAMILNADU
+District: DHARMAPURI
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+Asking about suitable varieties for Snake gourd
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for Snake gourd suitable varieties at CoCO 1 CO 2 PKM 1 MDU 1  PLR SG 1 and PLR 2

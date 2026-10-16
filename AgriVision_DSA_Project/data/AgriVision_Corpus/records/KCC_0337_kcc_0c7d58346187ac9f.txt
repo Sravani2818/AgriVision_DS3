@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0337
+========================================================================
+Source Record ID: kcc_0c7d58346187ac9f
+Idx: 985052
+Crop: Tomato
+State: MADHYA PRADESH
+District: UJJAIN
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+farmer want to know improved  varieties of tomato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for varieties of tomato Hybrid SegmentNamdhari  Seeds ShaktimanSyngenta India LtdAbhinav No 848Nunhems India LtdDevUS Agriseeds No 1080 No 1143 No 3383Indo American No 1004 No 1006

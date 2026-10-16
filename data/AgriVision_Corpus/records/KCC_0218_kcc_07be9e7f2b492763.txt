@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0218
+========================================================================
+Source Record ID: kcc_07be9e7f2b492763
+Idx: 3197829
+Crop: Cocoa
+State: KERALA
+District: IDUKKI
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Asked about requirement of trichoderma enriched Cowdung dosage in Cocoa first year
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+It is suggested to apply 1Kg richoderma enriched Cowdung dosage in Cocoa first year

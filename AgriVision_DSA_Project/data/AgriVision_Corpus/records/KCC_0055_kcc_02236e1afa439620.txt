@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0055
+========================================================================
+Source Record ID: kcc_02236e1afa439620
+Idx: 598593
+Crop: Kaner
+State: ODISHA
+District: ANUGUL
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+BONSAI PACKAGE OF PRACTICES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+BONSAI PACKAGE OF PRACTICES : DETAILS DESCRIBED

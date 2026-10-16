@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0382
+========================================================================
+Source Record ID: kcc_0e6b6ae193dfee86
+Idx: 1548686
+Crop: Papaya
+State: MAHARASHTRA
+District: BEED
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+asked about verities of papaya
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+verities of papaya   Pusa Delicious Washington  Co-2 taiwan

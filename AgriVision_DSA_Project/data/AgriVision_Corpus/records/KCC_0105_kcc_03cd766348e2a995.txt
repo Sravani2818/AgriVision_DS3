@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0105
+========================================================================
+Source Record ID: kcc_03cd766348e2a995
+Idx: 3114106
+Crop: Maize Makka
+State: TELANGANA
+District: JAGTIAL
+Sector: AGRICULTURE
+Query Type: Weed Management
+
+FARMER QUERY
+--------------------
+WEED MANAGEMENT IN MAIZE WITH INTERCROP WITH TURMERIC
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY ATRAZINE 800 GRAMS200 LITRES OF WATER PER ACRE

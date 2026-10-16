@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0394
+========================================================================
+Source Record ID: kcc_0eb86e069b40728b
+Idx: 1380602
+Crop: Paddy Dhan
+State: DELHI
+District: EAST DELHI Preet Vihar
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME PADDY SOWING TIME
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PADDY SOWING TIM -15 JUNE SE 25 JULY TAK

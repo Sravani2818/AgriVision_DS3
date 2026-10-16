@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0469
+========================================================================
+Source Record ID: kcc_11830c94919f9bb0
+Idx: 987145
+Crop: Fenugreek
+State: MADHYA PRADESH
+District: MANDSAUR
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: RABI
+
+FARMER QUERY
+--------------------
+Farmer wants to start mandi rate facility on mobile phone
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Your mandi rate facility registration has been successfully registered at kishan call center

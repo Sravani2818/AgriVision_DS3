@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0151
+========================================================================
+Source Record ID: kcc_0577cbc55dc2a851
+Idx: 1130859
+Crop: Pearl Millet BajraBulrush MilletSpiked Millet
+State: RAJASTHAN
+District: JAIPUR
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELLL ME FERTILIZER IN BAJRA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+FERTILIZER IN BAJRA-5 KG UREA

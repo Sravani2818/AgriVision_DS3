@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0475
+========================================================================
+Source Record ID: kcc_11b2ff0f8606ece1
+Idx: 2308118
+Crop: Caleus
+State: UTTAR PRADESH
+District: BADAUN
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Chandan ki lene ke bare me jankari
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Kisan bhai chandan ke paudh lene ke liye jila ke krishi udyan vibhag se samparak kare

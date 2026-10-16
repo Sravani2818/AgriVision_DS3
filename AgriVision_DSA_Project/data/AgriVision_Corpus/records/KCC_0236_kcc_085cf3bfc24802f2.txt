@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0236
+========================================================================
+Source Record ID: kcc_085cf3bfc24802f2
+Idx: 1156187
+Crop: Sweet Potato
+State: RAJASTHAN
+District: HANUMANGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME PEST CONTROL IN SWEET POTATO
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF INDOXACARB 145 SC 1 ML PER LITER WATER

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0185
+========================================================================
+Source Record ID: kcc_06abacd2a11e0755
+Idx: 2294930
+Crop: Rajmash Bean
+State: TAMILNADU
+District: KRISHNAGIRI
+Sector: AGRICULTURE
+Query Type: Sowing Time and Weather
+Season: RABI
+
+FARMER QUERY
+--------------------
+Asking about sowing season for Field lab-lab
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for onion sowing season at all through the year

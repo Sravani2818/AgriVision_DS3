@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0149
+========================================================================
+Source Record ID: kcc_057333a7f7aa544a
+Idx: 418528
+Crop: Lettuce
+State: BIHAR
+District: GAYA
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+varities
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+pusa chetkipusa deshipusha himani

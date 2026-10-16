@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0200
+========================================================================
+Source Record ID: kcc_072c68fdeb978dd5
+Idx: 1989188
+Crop: Barseem
+State: PUNJAB
+District: FEROZPUR
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: RABI
+
+FARMER QUERY
+--------------------
+INFORMATION REGARDING CONTROL LEAF CURL IN BARSEEM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY SAAFUPL  500GM IN 150LTR OF WATER PER ACRE

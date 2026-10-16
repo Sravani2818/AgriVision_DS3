@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0159
+========================================================================
+Source Record ID: kcc_05b171f32284bc4a
+Idx: 2197072
+Crop: Dolichos Bean
+State: KARNATAKA
+District: DAVANAGERE
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+asked about the sowing time of dolichos bean
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+May-June December-January

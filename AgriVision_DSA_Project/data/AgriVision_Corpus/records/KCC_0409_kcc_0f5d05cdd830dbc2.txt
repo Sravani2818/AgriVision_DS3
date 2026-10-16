@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0409
+========================================================================
+Source Record ID: kcc_0f5d05cdd830dbc2
+Idx: 2483405
+Crop: Sugar Beet
+State: KERALA
+District: TRIVANDRUM
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Planting and fertilizer application of sweet potato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Work the soil to a fine tilth by ploughing or digging to a depth of 15-25 cmThe cuttings can be planted on mounds taken at a spacing of 75 x 75 cm On the top of each mound 3-6 cuttings can be planted Plant the vine cuttings with the middle portion buried deep in the soil and the two cut ends exposed to the surface Ensure sufficient moisture in the soil for early establishment of the cutting Provide adequate drainage and prevent water logging Apply lime 3kg per cent before applying fertilizers After 2 weeks apply 40kg of organic manure per cent at the time of planting For the control of insect pest recommended to spray neem oil garlic emulsion

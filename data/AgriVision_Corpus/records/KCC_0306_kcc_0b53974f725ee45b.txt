@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0306
+========================================================================
+Source Record ID: kcc_0b53974f725ee45b
+Idx: 459281
+Crop: Barley Jau
+State: HARYANA
+District: JHAJJAR
+Sector: AGRICULTURE
+Query Type: Seeds
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Information regarding varieties of JAU
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Information regarding varieties of JAUB H -902 885 75

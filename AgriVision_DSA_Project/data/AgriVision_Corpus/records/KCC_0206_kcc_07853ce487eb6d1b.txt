@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0206
+========================================================================
+Source Record ID: kcc_07853ce487eb6d1b
+Idx: 1224201
+Crop: Mulberry
+State: UTTAR PRADESH
+District: BADAUN
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Fruit drop in mulberry
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Boron powder ka spray kare

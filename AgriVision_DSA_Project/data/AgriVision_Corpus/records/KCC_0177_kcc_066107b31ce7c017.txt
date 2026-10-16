@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0177
+========================================================================
+Source Record ID: kcc_066107b31ce7c017
+Idx: 1807953
+Crop: Sagoan
+State: UTTAR PRADESH
+District: MAHARAHGANJ
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+Sagon ke paudhe me keere lage hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Sagon ke paudho par cloropairiphas 50EC ki 50ml prati liter paani ke saath chhidkaw kre

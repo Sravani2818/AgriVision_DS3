@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0487
+========================================================================
+Source Record ID: kcc_124a4cc1f133e950
+Idx: 909470
+Crop: Cluster Bean
+State: GUJARAT
+District: Aravalli
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Ask about fungus problem in Root
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested: Carbendazim Bavistin 50 WP 30 grampump drenching OR 250 gramvigha water treatment

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0348
+========================================================================
+Source Record ID: kcc_0d044c8c2692dd22
+Idx: 1622404
+Crop: Rocket salad taramira
+State: RAJASTHAN
+District: NAGAUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME PEST CONTROL IN TARAMEERA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+DUSTING OF METHYL PARATHIAN 2 25 KG PER HA

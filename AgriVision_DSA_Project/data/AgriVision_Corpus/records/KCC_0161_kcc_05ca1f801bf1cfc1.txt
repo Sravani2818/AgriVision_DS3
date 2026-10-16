@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0161
+========================================================================
+Source Record ID: kcc_05ca1f801bf1cfc1
+Idx: 1884339
+Crop: fodder sorghum
+State: HARYANA
+District: SIRSA
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Information regarding IARI New Delhi  Pusa Toll free no
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+IARI PUSA NEW DELHI TOLL FREE NO[PHONE]

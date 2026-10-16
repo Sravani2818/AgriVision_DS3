@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0403
+========================================================================
+Source Record ID: kcc_0f11364da87d5d0e
+Idx: 1725412
+Crop: Mint
+State: UTTAR PRADESH
+District: KANPUR CITY
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+lemon grass ki buvai kab kare
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+lemon grass ki kheti june july me kare

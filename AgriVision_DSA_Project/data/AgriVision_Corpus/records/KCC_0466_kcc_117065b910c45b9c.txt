@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0466
+========================================================================
+Source Record ID: kcc_117065b910c45b9c
+Idx: 259082
+Crop: Broad Bean
+State: RAJASTHAN
+District: JHALAWAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+day back
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+coperoxiclorid 3gmliter

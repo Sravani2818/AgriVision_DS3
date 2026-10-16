@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0464
+========================================================================
+Source Record ID: kcc_1167853724127c55
+Idx: 282733
+Crop: Turmeric
+State: TAMILNADU
+District: VELLORE
+Sector: HORTICULTURE
+Query Type: Agriculture Mechanization
+Season: RABI
+
+FARMER QUERY
+--------------------
+weed control detail
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+weed control hand weeding done

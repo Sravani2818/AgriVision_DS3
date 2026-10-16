@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0014
+========================================================================
+Source Record ID: kcc_006d02bce68029ec
+Idx: 73072
+Crop: Indian rapeseed and mustard yellow sarson
+State: UTTAR PRADESH
+District: BADAUN
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+laha ki pattiya sikud rahi he
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+mancozeb 20glit panispary

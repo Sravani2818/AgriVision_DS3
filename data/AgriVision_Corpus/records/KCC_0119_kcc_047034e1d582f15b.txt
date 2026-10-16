@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0119
+========================================================================
+Source Record ID: kcc_047034e1d582f15b
+Idx: 930109
+Crop: Toria
+State: HARYANA
+District: YAMUNA NAGAR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+How to control fungal diseses in toria
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray 400 gm Bavestin in 200 litre water per acre

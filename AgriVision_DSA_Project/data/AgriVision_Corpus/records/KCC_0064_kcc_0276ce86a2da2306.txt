@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0064
+========================================================================
+Source Record ID: kcc_0276ce86a2da2306
+Idx: 2185543
+Crop: Peach
+State: JAMMU AND KASHMIR
+District: KUPWARA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Regarding Spray in Peach at FruitDevelopment-I Stage
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Dodine 65 WP 60 g or Metiram 55  Pyraclostrobin 5 60 WG 100 g or Kresoxim-methyl 443 SC 40 ml or Zineb 68  Hexaconazole 4 72 WP 75g in  100 litres of Water at FruitDevelopment-I Stage

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0013
+========================================================================
+Source Record ID: kcc_006a8bcbea967ec2
+Idx: 3582569
+Crop: Orange
+State: MADHYA PRADESH
+District: UJJAIN
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Farmer wants to know information about flower falling in orange  plant
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+200     15         l

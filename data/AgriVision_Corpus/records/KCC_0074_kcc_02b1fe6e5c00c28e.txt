@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0074
+========================================================================
+Source Record ID: kcc_02b1fe6e5c00c28e
+Idx: 2259701
+Crop: Ber
+State: RAJASTHAN
+District: BARMER
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME NUTRIENT MANAGEMENT OF BER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+MICRONUTRIENT 100 GRAM  PLANT IN ROOT  ZONE

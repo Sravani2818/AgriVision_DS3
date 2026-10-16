@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0465
+========================================================================
+Source Record ID: kcc_11701e3c64b57e75
+Idx: 342853
+Crop: Kundru
+State: UTTAR PRADESH
+District: RAEBARELI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+kudaru  me phal nahi araha hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+npk ghulansil 191919 1kg acre200 liter pani ke satha spray planofix 1 ml3liter pani ke dar se spray kare

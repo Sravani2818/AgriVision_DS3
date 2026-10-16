@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0247
+========================================================================
+Source Record ID: kcc_08f5d1f266fd1d1d
+Idx: 95856
+Crop: Tea
+State: ASSAM
+District: GOLAGHAT
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+RED SPIDER MITE AND HELOPELTIS  PROBLEM IN TEA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ADVICED TO APPLY OMITE  350 ML PER 200 LITER OF WATER FOR RED SPIDER MITE AND FOR HELOPELTIS APPLY DECIS  100 ML PER 200 LITER OF WATER

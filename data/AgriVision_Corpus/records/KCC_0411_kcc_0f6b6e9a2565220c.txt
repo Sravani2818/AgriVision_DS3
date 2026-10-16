@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0411
+========================================================================
+Source Record ID: kcc_0f6b6e9a2565220c
+Idx: 1029015
+Crop: Grape
+State: MAHARASHTRA
+District: SOLAPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+attack of root rot on grape
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+root rot on grape - drenchig  Redomil Gold 30gm15Lit of Water

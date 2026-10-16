@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0140
+========================================================================
+Source Record ID: kcc_0531e7254608eece
+Idx: 1616421
+Crop: Bishops Weed
+State: RAJASTHAN
+District: JHALAWAR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME SEED RATE OF KALONGI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SEED RATE OF KALONGI-8-10 KGHAC

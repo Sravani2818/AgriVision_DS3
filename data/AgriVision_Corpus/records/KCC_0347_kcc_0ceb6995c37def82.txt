@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0347
+========================================================================
+Source Record ID: kcc_0ceb6995c37def82
+Idx: 2570137
+Crop: Chapan Kaddu
+State: RAJASTHAN
+District: GANGANAGAR
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+TELL ME MICRO NUTRIENT MANAGEMENT IN CHAPPAN TINDA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+4 ML

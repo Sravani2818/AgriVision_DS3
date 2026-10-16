@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0156
+========================================================================
+Source Record ID: kcc_059bb417455c3717
+Idx: 1341557
+Crop: Rocket salad taramira
+State: UTTAR PRADESH
+District: KANPUR DEHAT
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+TORIYA VARIETY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PT-303BHAVANITYPE-9

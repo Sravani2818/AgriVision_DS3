@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0373
+========================================================================
+Source Record ID: kcc_0e3faa8a0b3c31a0
+Idx: 2444498
+Crop: Castor Rehri Rendi Arandi
+State: GUJARAT
+District: PANCH MAHAL
+Sector: AGRICULTURE
+Query Type: Weed Management
+
+FARMER QUERY
+--------------------
+ask about weed control in castor
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+EC -

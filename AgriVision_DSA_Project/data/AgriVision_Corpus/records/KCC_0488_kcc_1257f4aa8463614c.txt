@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0488
+========================================================================
+Source Record ID: kcc_1257f4aa8463614c
+Idx: 2290551
+Crop: Kundru
+State: TAMILNADU
+District: DINDIGUL
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+Asked about Citrus planting Season
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for Citrus planting Season : June  September

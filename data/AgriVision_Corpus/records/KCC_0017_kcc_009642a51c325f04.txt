@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0017
+========================================================================
+Source Record ID: kcc_009642a51c325f04
+Idx: 2266400
+Crop: Bell Pepper
+State: RAJASTHAN
+District: JAISALMER
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT WEATHER INFORMATION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RAIN POSSIBILITY IN NEXT 5 DAYS

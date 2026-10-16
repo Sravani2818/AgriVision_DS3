@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0001
+========================================================================
+Source Record ID: kcc_0006a7703ccb902d
+Idx: 2941378
+Crop: Almond
+State: UTTAR PRADESH
+District: MAINPURI
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Information about cultivation of almond
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+- [PHONE]

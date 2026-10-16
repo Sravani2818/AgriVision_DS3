@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0467
+========================================================================
+Source Record ID: kcc_1176ea7024e1c2f3
+Idx: 1643133
+Crop: Watermelon
+State: TAMILNADU
+District: SALEM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Thrips management for  water melon
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for spray Fipronil  2ml  lit

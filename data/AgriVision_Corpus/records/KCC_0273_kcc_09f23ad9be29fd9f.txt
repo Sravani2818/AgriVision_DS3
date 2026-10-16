@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0273
+========================================================================
+Source Record ID: kcc_09f23ad9be29fd9f
+Idx: 1104578
+Crop: Dhaincha
+State: PUNJAB
+District: FEROZPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+CONTROL OF CATERPILLAR IN DHAINCHA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+CONTROL OF CATERPILLAR IN DHAINCHA SPRAY150ML NVAN IN 100 LTR WATER

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0354
+========================================================================
+Source Record ID: kcc_0d4b5e95c117d433
+Idx: 1902858
+Crop: Jamun
+State: KARNATAKA
+District: BIJAPUR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+ASKED FOR PLANTING MATERIALS OF JAMUN
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+080-2[PHONE]-284664[PHONE]

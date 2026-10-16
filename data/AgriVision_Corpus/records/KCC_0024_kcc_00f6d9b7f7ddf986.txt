@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0024
+========================================================================
+Source Record ID: kcc_00f6d9b7f7ddf986
+Idx: 3613104
+Crop: Clove
+State: UTTAR PRADESH
+District: SHIVASTI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information to diagnose yellowing of garlic leaves
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+50 wp 2

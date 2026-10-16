@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0180
+========================================================================
+Source Record ID: kcc_0672a15ac766cf22
+Idx: 1115406
+Crop: China Astor
+State: RAJASTHAN
+District: AJMER
+Sector: HORTICULTURE
+Query Type: Nursery Management
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME WEATHER INFORMATION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NO RAIN POSSIBILITY IN NEXT 5 DAYS

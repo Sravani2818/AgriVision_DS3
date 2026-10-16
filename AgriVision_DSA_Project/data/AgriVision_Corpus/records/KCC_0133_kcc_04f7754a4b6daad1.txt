@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0133
+========================================================================
+Source Record ID: kcc_04f7754a4b6daad1
+Idx: 145301
+Crop: Potato
+State: HIMACHAL PRADESH
+District: MANDI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+information regarding how to control fungal disease in potato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray of m-45 250g in 100lt water

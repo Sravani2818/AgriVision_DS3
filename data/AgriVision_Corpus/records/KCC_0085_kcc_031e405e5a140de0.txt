@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0085
+========================================================================
+Source Record ID: kcc_031e405e5a140de0
+Idx: 2070252
+Crop: Jojoba
+State: UTTAR PRADESH
+District: SHAHJAHANPUR
+Sector: AGRICULTURE
+Query Type: Soil Health Card
+
+FARMER QUERY
+--------------------
+staveya ki jare
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+jila udhyan vibhag me sampark kare

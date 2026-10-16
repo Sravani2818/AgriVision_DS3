@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0428
+========================================================================
+Source Record ID: kcc_0ff04f2e7cbb9efa
+Idx: 89178
+Crop: White Yam
+State: ASSAM
+District: DHUBRI
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+CULTURAL PRACTICE OF YAM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+EXPLAINED

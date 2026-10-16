@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0007
+========================================================================
+Source Record ID: kcc_002de0fc3134310f
+Idx: 2713818
+Crop: Sugarcane Noble Cane
+State: UTTAR PRADESH
+District: SHAMLI PRABUDH NAGER
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about the control of Pokkahboing disease in Sugarcane
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+50 WP  400  200

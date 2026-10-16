@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0250
+========================================================================
+Source Record ID: kcc_090877144738b2fc
+Idx: 3578776
+Crop: Cluster Bean
+State: GUJARAT
+District: JAMNAGAR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Ask about yieald of clusterbean  crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+45000-5500 kgha

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0288
+========================================================================
+Source Record ID: kcc_0a721e4c43d80f07
+Idx: 444758
+Crop: Jojoba
+State: HARYANA
+District: HISSAR
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+informnation regarding for fertilizer use in sarson
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+informnation regarding for fertilizer use in sarson : use 4 bag zypsum  50 kg dap  10 kg zink sulphate  30 kg ureaacre

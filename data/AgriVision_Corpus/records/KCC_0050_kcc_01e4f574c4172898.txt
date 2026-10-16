@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0050
+========================================================================
+Source Record ID: kcc_01e4f574c4172898
+Idx: 227353
+Crop: Smooth Guard
+State: ODISHA
+District: NAYAGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+CATTERPILER PROTECTION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+CHLORPYRIPHOS 2 ML 1 LITER

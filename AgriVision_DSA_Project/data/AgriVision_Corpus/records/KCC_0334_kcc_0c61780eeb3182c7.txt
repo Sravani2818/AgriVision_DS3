@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0334
+========================================================================
+Source Record ID: kcc_0c61780eeb3182c7
+Idx: 951669
+Crop: Cymbidium
+State: KARNATAKA
+District: DHARWAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+pest
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+dimethioate 15 ml 1liter

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0197
+========================================================================
+Source Record ID: kcc_070b369e65913906
+Idx: 648130
+Crop: Clove
+State: RAJASTHAN
+District: KOTA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME WEED CONTROL IN CORIANDER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+HAND WEEDING ONLY

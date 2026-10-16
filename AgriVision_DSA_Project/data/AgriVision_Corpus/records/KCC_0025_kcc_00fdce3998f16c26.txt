@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0025
+========================================================================
+Source Record ID: kcc_00fdce3998f16c26
+Idx: 76354
+Crop: Sagoan
+State: UTTAR PRADESH
+District: DEORIA
+Sector: HORTICULTURE
+Query Type: Soil Testing
+
+FARMER QUERY
+--------------------
+SOIL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SANDY LOAM SOIL

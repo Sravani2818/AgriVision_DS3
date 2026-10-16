@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0229
+========================================================================
+Source Record ID: kcc_082e05c183a45fb1
+Idx: 1084452
+Crop: Musk Melon
+State: ODISHA
+District: SAMBALPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+DOWNY MILDEW IN WATERMELON
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+DOWNY MILDEW IN WATERMELON- SPRAY RIDOMIL GOLD 2GM PER 1 LITRE WATER

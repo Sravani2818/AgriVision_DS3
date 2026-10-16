@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0209
+========================================================================
+Source Record ID: kcc_0795e7e201927864
+Idx: 3577034
+Crop: Bush Squash
+State: ASSAM
+District: BAKSA
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+FARMERS QUERY ON PLANT GROWTH REGULATOR IN BUSH SQUASH
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+APPLY MAHAPHAL  2 ML PER LITRE OF WATER AT 15 DAYS INTERVAL FOR 2 SPRAYINGS

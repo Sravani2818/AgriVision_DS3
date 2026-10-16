@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0402
+========================================================================
+Source Record ID: kcc_0f10a6bfd8cfc5ff
+Idx: 1172591
+Crop: Mint
+State: TAMILNADU
+District: TIRUCHIRAPPALLI
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+mint top dressing fertilizer management
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for apply urea 6kg  ac

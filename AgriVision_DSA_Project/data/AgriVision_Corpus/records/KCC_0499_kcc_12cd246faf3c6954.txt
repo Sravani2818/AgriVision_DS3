@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0499
+========================================================================
+Source Record ID: kcc_12cd246faf3c6954
+Idx: 300133
+Crop: Poplar
+State: UTTAR PRADESH
+District: SAHARANPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+GROWTH REGULATOR
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY NEPTHILIC ACITIC ACITIC ACID1ML10LITER OF WATER

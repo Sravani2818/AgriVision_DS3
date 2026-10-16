@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0395
+========================================================================
+Source Record ID: kcc_0ebd0d2ae64d0f43
+Idx: 2889848
+Crop: Arecanut
+State: RAJASTHAN
+District: JHUNJHUNU
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+TELL  ME  ABOUT  DISEASE  CONTROL  IN  ASHOK
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+50WP  45    2     15

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0342
+========================================================================
+Source Record ID: kcc_0ccea7e33291c3d2
+Idx: 3111925
+Crop: Arecanut
+State: WEST BENGAL
+District: Alipurduar
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+ASAKING ABOUT NUTRIENT MANAGEMENT IN ARECANUT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+GRADE 5    2 GM  LIT OF WATER

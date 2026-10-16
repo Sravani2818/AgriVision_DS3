@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0295
+========================================================================
+Source Record ID: kcc_0abc6e1487efed34
+Idx: 1572740
+Crop: Chillies
+State: ODISHA
+District: GANJAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+cater pillar in chilli
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+cater pillar in chilli-recommended to spray chlorpyriphos 2mllit water

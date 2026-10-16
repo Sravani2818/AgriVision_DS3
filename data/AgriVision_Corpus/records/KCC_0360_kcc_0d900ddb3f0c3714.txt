@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0360
+========================================================================
+Source Record ID: kcc_0d900ddb3f0c3714
+Idx: 1377720
+Crop: Barseem
+State: UTTARAKHAND
+District: UDHAM SINGH NAGAR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+barseem me galan aa rahi hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+apply tricodarma 2 gmliter of water

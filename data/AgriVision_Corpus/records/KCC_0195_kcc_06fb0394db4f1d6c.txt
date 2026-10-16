@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0195
+========================================================================
+Source Record ID: kcc_06fb0394db4f1d6c
+Idx: 2665182
+Crop: Khesari chickling vetch grass pea
+State: UTTAR PRADESH
+District: JHANSI
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about rat problem in pea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+2-3            4  7               16  C   18  C     7 -12              l

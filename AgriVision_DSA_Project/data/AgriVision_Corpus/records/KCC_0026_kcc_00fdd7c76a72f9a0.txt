@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0026
+========================================================================
+Source Record ID: kcc_00fdd7c76a72f9a0
+Idx: 50767
+Crop: Cardamom
+State: KERALA
+District: IDUKKI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+pest and diseases of cardamom
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+explained all remedies for pest and diseases of cardamom

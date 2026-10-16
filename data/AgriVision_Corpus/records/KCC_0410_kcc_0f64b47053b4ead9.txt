@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0410
+========================================================================
+Source Record ID: kcc_0f64b47053b4ead9
+Idx: 2803909
+Crop: Anjan Grass
+State: KARNATAKA
+District: CHIKMAGALUR
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+Asked about general information  about the cultural practices of anjan grass
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Animal husbandry  Veterinary [PHONE]               [PHONE] [PHONE] [PHONE]

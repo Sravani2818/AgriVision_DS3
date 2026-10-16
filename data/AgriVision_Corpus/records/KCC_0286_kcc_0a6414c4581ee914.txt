@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0286
+========================================================================
+Source Record ID: kcc_0a6414c4581ee914
+Idx: 1560597
+Crop: Horse Gram kulthikultha
+State: MAHARASHTRA
+District: NAGPUR
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+nutrient management in   horse gram
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+170  kg dap hecter and  70 kg  urea  hecter

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0150
+========================================================================
+Source Record ID: kcc_05734eb1cf756116
+Idx: 2536656
+Crop: Vanilla
+State: ODISHA
+District: CUTTACK
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Regarding cultivation of vanilla
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PlanofixNAA    borax boron

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0433
+========================================================================
+Source Record ID: kcc_100381e8464bc6cd
+Idx: 206169
+Crop: Green Gram Moong Bean Moong
+State: MAHARASHTRA
+District: PARBHANI
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+hebicides
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+persuit

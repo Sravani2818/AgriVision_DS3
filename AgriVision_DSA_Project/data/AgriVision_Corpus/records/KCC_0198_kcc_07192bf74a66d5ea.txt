@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0198
+========================================================================
+Source Record ID: kcc_07192bf74a66d5ea
+Idx: 1360700
+Crop: Cucumber
+State: WEST BENGAL
+District: BANKURA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+CONTROLB OF EPILACHNA BEETLES IN CUCUMBER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY  TRIAZOPHOS 40 EC  1 ML   LIT OF WATER

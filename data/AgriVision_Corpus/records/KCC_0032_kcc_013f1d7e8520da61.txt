@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0032
+========================================================================
+Source Record ID: kcc_013f1d7e8520da61
+Idx: 382388
+Crop: Bitter Gourd
+State: UTTARAKHAND
+District: CHAMOLI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+2325235223[PHONE] 23252366 2346234[PHONE] 234623[PHONE] 23612379 235223612366 23[PHONE]
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Carbofuran 3 CG  500 23272381235223662350 23462381235223402367 234423[PHONE] 2332235[PHONE] 23502375 235[PHONE] 23422375

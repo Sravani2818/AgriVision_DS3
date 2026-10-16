@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0101
+========================================================================
+Source Record ID: kcc_03b440ec868d1f2b
+Idx: 1390697
+Crop: Oil palm
+State: ANDHRA PRADESH
+District: KRISHNA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+LEAF EATING CATERPILLAR INFESTATION IN OILPALM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY Profenophos 400 ml  acre

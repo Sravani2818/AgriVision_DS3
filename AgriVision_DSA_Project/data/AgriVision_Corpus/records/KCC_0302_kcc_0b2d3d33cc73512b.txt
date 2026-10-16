@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0302
+========================================================================
+Source Record ID: kcc_0b2d3d33cc73512b
+Idx: 209622
+Crop: Triticale
+State: MAHARASHTRA
+District: LATUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+white fly
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray of oberon

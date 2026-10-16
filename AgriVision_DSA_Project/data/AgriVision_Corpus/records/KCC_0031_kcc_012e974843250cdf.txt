@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0031
+========================================================================
+Source Record ID: kcc_012e974843250cdf
+Idx: 884557
+Crop: Amarphophallus SurankandElephant Foot Yam
+State: BIHAR
+District: PURNEA
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+SeedPlanting Material  Spacing for Elephant foot yam
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Planting Material of EFY is cornspacing for planting 45cm90cm 3500kgha seed rate

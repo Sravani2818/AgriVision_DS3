@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0006
+========================================================================
+Source Record ID: kcc_0029a02dbb464162
+Idx: 3217344
+Crop: Triticale
+State: UTTAR PRADESH
+District: GONDA
+Sector: AGRICULTURE
+Query Type: Varieties
+
+FARMER QUERY
+--------------------
+Information about of wheat variety
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+DBW 187PBW 343HD 2967HD 3086

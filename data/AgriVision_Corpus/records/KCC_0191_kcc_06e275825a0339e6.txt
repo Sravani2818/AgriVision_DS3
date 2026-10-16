@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0191
+========================================================================
+Source Record ID: kcc_06e275825a0339e6
+Idx: 937869
+Crop: Rajma french bean
+State: HIMACHAL PRADESH
+District: MANDI
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+how to control caterpillar in raj mah
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray 1 ml monocrotophos per litre of water

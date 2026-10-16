@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0406
+========================================================================
+Source Record ID: kcc_0f4352b1c53f16c3
+Idx: 16696
+Crop: Sunnhemp Patua
+State: MAHARASHTRA
+District: BEED
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+Season: RABI
+
+FARMER QUERY
+--------------------
+fertilizer dose for sugarcane co-671
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+give 25:60:60 npk kgha at planting time and also give micronutients borax  5 kgha  zinc sulphate  20 kgha humic acid 10 kgha

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0338
+========================================================================
+Source Record ID: kcc_0c81b149c5c8cdb4
+Idx: 382185
+Crop: Cabbage
+State: UTTARAKHAND
+District: BAGESHWAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+gobhi me keet laga hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+2335238123522366231223952379234723772360  15 2319235[PHONE]  235423[PHONE] 234623[PHONE] 23502375 23502367235423[PHONE] 23602381234623[PHONE] 232523522375

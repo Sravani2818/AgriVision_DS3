@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0251
+========================================================================
+Source Record ID: kcc_090a32beb3fd0c60
+Idx: 3124110
+Crop: Anjan Grass
+State: PUNJAB
+District: FEROZPUR
+Sector: AGRICULTURE
+Query Type: Bio-Pesticides and Bio-Fertilizers
+
+FARMER QUERY
+--------------------
+Information regarding the yield of varieties of fodder maize
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+-  -1006  -1007  I

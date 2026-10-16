@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0216
+========================================================================
+Source Record ID: kcc_07b7157150a20d14
+Idx: 3450977
+Crop: Spinach Palak
+State: UTTAR PRADESH
+District: SULTANPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information to prevent light yellowing in spinach and soya crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+- N:P:K-18:18:18  1-15 kg  200

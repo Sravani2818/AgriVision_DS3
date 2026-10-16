@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0309
+========================================================================
+Source Record ID: kcc_0b8312f58168c350
+Idx: 1629178
+Crop: Barley Jau
+State: RAJASTHAN
+District: HANUMANGARH
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME FUNGAL DISEASE CONTROL IN BARLEY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF MENCOZEB 2 GM PER LITER WATER

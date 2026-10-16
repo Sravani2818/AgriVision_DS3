@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0459
+========================================================================
+Source Record ID: kcc_1133885591f6052a
+Idx: 1452418
+Crop: Bengal Gram GramChick PeaKabuliChana
+State: HARYANA
+District: KAITHAL
+Sector: AGRICULTURE
+Query Type: Weed Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+recommended post emergence herbicide in gram field
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+no recommended post emergence herbicide in gram field

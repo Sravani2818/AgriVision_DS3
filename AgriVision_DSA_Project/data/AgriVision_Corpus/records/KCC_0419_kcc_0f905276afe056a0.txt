@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0419
+========================================================================
+Source Record ID: kcc_0f905276afe056a0
+Idx: 1370849
+Crop: Horse Gram kulthikultha
+State: JHARKAND
+District: KODARMA
+Sector: AGRICULTURE
+Query Type: Field Preparation
+
+FARMER QUERY
+--------------------
+Fertilizer dose for wheat
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Fertilizer dose for wheatfertilizer dose- Urea  260 kgha  SSP  350 kg  ha and MOP  65 kghaApply half dose of urea and full dose of SSP and MOP at time of field preparation and rest half dose of urea after 25days of sowing

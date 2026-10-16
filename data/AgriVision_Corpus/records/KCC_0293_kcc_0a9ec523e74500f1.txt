@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0293
+========================================================================
+Source Record ID: kcc_0a9ec523e74500f1
+Idx: 3198053
+Crop: Cocoa
+State: KERALA
+District: KOZHIKODE
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Asked about management of yellowing in cocoa leaves
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended to spray urea 2gm per litre of water

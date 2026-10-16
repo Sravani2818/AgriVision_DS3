@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0310
+========================================================================
+Source Record ID: kcc_0b88872f18149914
+Idx: 3900097
+Crop: Maize Makka
+State: BIHAR
+District: KHAGARIA
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Query related to Nutrient Deficiency in maize
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+: 19:19:19  5 gm           3

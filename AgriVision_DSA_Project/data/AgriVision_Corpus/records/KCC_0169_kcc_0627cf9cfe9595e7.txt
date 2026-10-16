@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0169
+========================================================================
+Source Record ID: kcc_0627cf9cfe9595e7
+Idx: 3785733
+Crop: Sweet Potato
+State: KARNATAKA
+District: BELGAUM
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Asked about Nutrients management in Sweet potato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+5     5        3   5   Suggested to spray Ammonium nitrate  5 g  Potash  5 gm per ltr of water repeat spray 5 times in 3 days interval

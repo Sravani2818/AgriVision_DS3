@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0320
+========================================================================
+Source Record ID: kcc_0bf883fc37ce6e2a
+Idx: 1984914
+Crop: Leafy Vegetable
+State: ODISHA
+District: KHORDHA
+Sector: HORTICULTURE
+Query Type: Bio-Pesticides and Bio-Fertilizers
+
+FARMER QUERY
+--------------------
+pest in leafy vegetable
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray 5ml neemazol in 1ltr water

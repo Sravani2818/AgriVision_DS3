@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0228
+========================================================================
+Source Record ID: kcc_081e240e5c7358ae
+Idx: 203849
+Crop: Roselle Mesta
+State: MAHARASHTRA
+District: JALNA
+Sector: AGRICULTURE
+Query Type: Agriculture Mechanization
+Season: RABI
+
+FARMER QUERY
+--------------------
+abt watershed devlopmend
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+info given

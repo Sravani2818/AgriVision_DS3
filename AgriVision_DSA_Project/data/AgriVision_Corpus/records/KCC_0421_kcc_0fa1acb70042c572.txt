@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0421
+========================================================================
+Source Record ID: kcc_0fa1acb70042c572
+Idx: 2174863
+Crop: Olive
+State: HARYANA
+District: FARIDABAD
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT OF WEATHER INFORMATION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NO  RAIN POSSIBILITY IN NEXT 5 DAYS

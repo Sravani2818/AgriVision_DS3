@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0037
+========================================================================
+Source Record ID: kcc_0167f44951f5c665
+Idx: 2564034
+Crop: Barnyard Millet KundiraivlliSawan
+State: RAJASTHAN
+District: BARMER
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+CALL PICK UP A CHILD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--DOBARA CALL KARE

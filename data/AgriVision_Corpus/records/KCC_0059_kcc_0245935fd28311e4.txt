@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0059
+========================================================================
+Source Record ID: kcc_0245935fd28311e4
+Idx: 707195
+Crop: Mentha
+State: UTTAR PRADESH
+District: BADAUN
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+mentha me weed controle ki dava
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray of pendamethaline 1 lit acre

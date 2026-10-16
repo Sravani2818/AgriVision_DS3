@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0290
+========================================================================
+Source Record ID: kcc_0a7db5da284efe1a
+Idx: 1776240
+Crop: Olive
+State: UTTAR PRADESH
+District: KHERI
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+nutrient for til
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+3gram sulpherliter paani ke sath spray kare

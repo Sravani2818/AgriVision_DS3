@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0135
+========================================================================
+Source Record ID: kcc_04fec45d6f551426
+Idx: 1157304
+Crop: Methi Fenugreek
+State: RAJASTHAN
+District: HANUMANGARH
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME ROOT ROT CONTROL IN menthe
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+DRENCHING OF CARBENDAZIM 250 GMBIGHA IN ROOT ZONE WITH IRRIGATION

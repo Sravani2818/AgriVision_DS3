@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0492
+========================================================================
+Source Record ID: kcc_1286bacafa65fd36
+Idx: 3241802
+Crop: Fennel
+State: RAJASTHAN
+District: CHURU
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+FARMER ASKED ABOUT  NUTRIENT MANAGEMENT IN FENNEL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NPK 18:18:18   10

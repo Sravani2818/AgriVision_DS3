@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0115
+========================================================================
+Source Record ID: kcc_045288eb8c827c7f
+Idx: 2579884
+Crop: Amarphophallus SurankandElephant Foot Yam
+State: RAJASTHAN
+District: SIKAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+TELL ME NO PAYMENT IN PMKSNY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SEVERDOWN  HEN

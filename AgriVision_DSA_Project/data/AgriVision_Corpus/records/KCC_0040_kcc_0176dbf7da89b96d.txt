@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0040
+========================================================================
+Source Record ID: kcc_0176dbf7da89b96d
+Idx: 148787
+Crop: Faba Bean Horse Beanwindsor Bean
+State: HIMACHAL PRADESH
+District: SOLAN
+Sector: AGRICULTURE
+Query Type: Seeds
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+information regarding seed rate of Lobiya
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+seed rate of Lobiya is 15-20kgha

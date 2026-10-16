@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0484
+========================================================================
+Source Record ID: kcc_11fdc5048919d95b
+Idx: 433912
+Crop: Castor Rehri Rendi Arandi
+State: GUJARAT
+District: SABARKANTHA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ask about GHCP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+i suggested quinqlphos 20ml10 li water spray

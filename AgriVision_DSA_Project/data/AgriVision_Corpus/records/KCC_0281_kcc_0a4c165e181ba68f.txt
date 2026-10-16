@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0281
+========================================================================
+Source Record ID: kcc_0a4c165e181ba68f
+Idx: 28795
+Crop: Cotton Kapas
+State: GUJARAT
+District: SURENDRANAGAR
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+asking fertilizer after 25 days
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+i have suggested nitrogenous fertilizeer

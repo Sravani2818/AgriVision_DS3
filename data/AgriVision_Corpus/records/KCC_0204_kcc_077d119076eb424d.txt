@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0204
+========================================================================
+Source Record ID: kcc_077d119076eb424d
+Idx: 1945437
+Crop: Beekeeping
+State: MAHARASHTRA
+District: AHMADNAGAR
+Sector: AGRICULTURE
+Query Type: Bio-Pesticides and Bio-Fertilizers
+
+FARMER QUERY
+--------------------
+BEEKEPING TRAINING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+BEEKEPING TRAINING  -KHADI GRAMODYAG KENDRACHALAK AND SAHYOG PARIWAR ATTEIND TRAINING

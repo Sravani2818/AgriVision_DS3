@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0266
+========================================================================
+Source Record ID: kcc_09a01205a7171edb
+Idx: 1909374
+Crop: Pillipesara
+State: KARNATAKA
+District: SHIMOGA
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+WEATHER REPORT OF
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+080-2[PHONE]-284664[PHONE]

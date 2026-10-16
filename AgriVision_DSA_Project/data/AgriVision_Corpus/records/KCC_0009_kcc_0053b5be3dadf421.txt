@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0009
+========================================================================
+Source Record ID: kcc_0053b5be3dadf421
+Idx: 2165551
+Crop: Amarphophallus SurankandElephant Foot Yam
+State: BIHAR
+District: SAMASTIPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+YELLOWING LEAF PROBLEM IN ELEPHANT FOT YAM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray mancozeb  2 gm  lit of water

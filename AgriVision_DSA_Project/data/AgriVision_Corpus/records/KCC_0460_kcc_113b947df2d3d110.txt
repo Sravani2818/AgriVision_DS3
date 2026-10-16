@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0460
+========================================================================
+Source Record ID: kcc_113b947df2d3d110
+Idx: 1456587
+Crop: Orange
+State: HIMACHAL PRADESH
+District: KANGRA
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+how to  Fertilizer dose 5year of citrus
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Fertilizer dose 5year of citrus are 30kg FYM  1600gm CAN February to April - May month  1565gm SP  500gm MOP December monthplant

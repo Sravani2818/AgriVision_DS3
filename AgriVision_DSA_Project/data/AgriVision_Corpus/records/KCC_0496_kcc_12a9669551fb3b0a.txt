@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0496
+========================================================================
+Source Record ID: kcc_12a9669551fb3b0a
+Idx: 2770630
+Crop: Ribbed Gourd Kali Tori
+State: BIHAR
+District: SAMASTIPUR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+QUERY RELATED TO RIBBED VARIETIES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+- VarietiesCo 1 Co 2 PKM 1

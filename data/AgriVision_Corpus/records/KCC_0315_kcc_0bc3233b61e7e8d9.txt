@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0315
+========================================================================
+Source Record ID: kcc_0bc3233b61e7e8d9
+Idx: 1916632
+Crop: Butter Pea Vegetable
+State: KERALA
+District: MALAPPURAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+sucking pest in pea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended to spray Neem oil garlic emultion spray neem oil garlic emulation 20 g garlic  20 ml neem oil  6 g  barsoap in a litter of water

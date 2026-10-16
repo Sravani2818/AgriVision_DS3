@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0491
+========================================================================
+Source Record ID: kcc_127740d33205c112
+Idx: 3367295
+Crop: Dinanath Grass
+State: PUNJAB
+District: BHATINDA
+Sector: AGRICULTURE
+Query Type: Varieties
+
+FARMER QUERY
+--------------------
+Information regarding  variety of spring maize
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+-P-1844PMH-11   10    9108    8   7     1         -  12 -99 -182    11 -95 -22    1 -95 -21   -95 -175

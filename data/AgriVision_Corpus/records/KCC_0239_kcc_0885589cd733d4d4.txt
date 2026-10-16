@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0239
+========================================================================
+Source Record ID: kcc_0885589cd733d4d4
+Idx: 1016492
+Crop: Safflower kusumkardi
+State: MAHARASHTRA
+District: AHMADNAGAR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+weather forecasting
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Cloudy weather  possibility of rain

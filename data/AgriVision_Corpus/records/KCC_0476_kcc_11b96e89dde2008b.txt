@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0476
+========================================================================
+Source Record ID: kcc_11b96e89dde2008b
+Idx: 481152
+Crop: Ricebean
+State: KARNATAKA
+District: GULBARGA
+Sector: AGRICULTURE
+Query Type: Field Preparation
+
+FARMER QUERY
+--------------------
+pest
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+dimethioate 15 ml  liter  19 all 2 gm  liter

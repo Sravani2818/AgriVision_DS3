@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0098
+========================================================================
+Source Record ID: kcc_038e0bb8d2981497
+Idx: 678822
+Crop: Barnyard Millet KundiraivlliSawan
+State: TAMILNADU
+District: PERAMBALUR
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Kudiraivali sowing season and variety
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for Kudiraivali sowing season : september - october and variety : CO 1 COKV2

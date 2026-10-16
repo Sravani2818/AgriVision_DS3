@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0246
+========================================================================
+Source Record ID: kcc_08ca5026451bfc4b
+Idx: 42128
+Crop: Castor Rehri Rendi Arandi
+State: GUJARAT
+District: BANAS KANTHA
+Sector: AGRICULTURE
+Query Type: Water Management
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+ask for castor first irrigation
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+i suggest give irrigation 25 DAS

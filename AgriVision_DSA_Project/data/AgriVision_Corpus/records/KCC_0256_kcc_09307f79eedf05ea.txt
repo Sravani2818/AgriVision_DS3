@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0256
+========================================================================
+Source Record ID: kcc_09307f79eedf05ea
+Idx: 2488254
+Crop: Pepper
+State: KERALA
+District: KANNUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+--What is Akomin and Ridomil
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--What is Akomin and Ridomil Recommended Akomin is a plant tonic containing Potassium phosphonate Dosage : 4 ml in 1 litre water Ridomil is a fungicide used against quick wilt

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0329
+========================================================================
+Source Record ID: kcc_0c394e6dbc64c95a
+Idx: 960667
+Crop: Rubber
+State: KERALA
+District: PALAKKAD
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+fertiliser
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended 900 gm 10:10:10 per year in two splits

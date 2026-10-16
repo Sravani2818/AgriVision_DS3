@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0075
+========================================================================
+Source Record ID: kcc_02b23de7d5bf78e7
+Idx: 465073
+Crop: Rajmash Bean
+State: HIMACHAL PRADESH
+District: MANDI
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+how to control of blight in rajmash
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray with Bavistin 1gmliter of water

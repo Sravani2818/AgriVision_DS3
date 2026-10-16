@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0234
+========================================================================
+Source Record ID: kcc_084b05814b9f8d83
+Idx: 1437796
+Crop: Bush Squash
+State: GUJARAT
+District: VADODARA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Ask about general information
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested: All information provided - Thanks for calling in kisaan call center

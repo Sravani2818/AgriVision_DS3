@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0423
+========================================================================
+Source Record ID: kcc_0fa60e366d9a7798
+Idx: 884910
+Crop: Brussils Sprouts
+State: BIHAR
+District: KATIHAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Yellowing of leaf of onion
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray saaf  2 ml in 1 litre of water

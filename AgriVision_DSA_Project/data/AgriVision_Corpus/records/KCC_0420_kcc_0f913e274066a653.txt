@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0420
+========================================================================
+Source Record ID: kcc_0f913e274066a653
+Idx: 1562232
+Crop: Melon
+State: MAHARASHTRA
+District: HINGOLI
+Sector: HORTICULTURE
+Query Type: Field Preparation
+Season: RABI
+
+FARMER QUERY
+--------------------
+Asked planting space of melon
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+planting space of melon - 2 X 1 meter

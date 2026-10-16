@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0106
+========================================================================
+Source Record ID: kcc_03e3dba193169a58
+Idx: 2143533
+Crop: Bell Pepper
+State: JHARKAND
+District: CHATRA
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+problem fungus
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+problem fungusSpray Copper oxy chloride  2 gm  lit of water

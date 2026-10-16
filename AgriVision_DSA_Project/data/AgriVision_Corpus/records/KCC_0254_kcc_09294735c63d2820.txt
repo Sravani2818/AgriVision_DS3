@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0254
+========================================================================
+Source Record ID: kcc_09294735c63d2820
+Idx: 303603
+Crop: Red Clover
+State: UTTAR PRADESH
+District: MEERUT
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+disease problem in jai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+5 zink salphet ka sprey kare

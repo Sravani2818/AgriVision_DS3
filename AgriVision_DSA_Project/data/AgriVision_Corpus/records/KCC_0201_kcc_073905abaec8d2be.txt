@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0201
+========================================================================
+Source Record ID: kcc_073905abaec8d2be
+Idx: 2646874
+Crop: Tobacco
+State: UTTAR PRADESH
+District: ETAH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about fungal disease in Tobacco
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+12    63 WP 300  400       200

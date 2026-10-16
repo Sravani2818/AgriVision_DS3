@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0412
+========================================================================
+Source Record ID: kcc_0f6d9e7048fce453
+Idx: 3580259
+Crop: Apricot
+State: JAMMU AND KASHMIR
+District: BADGAM
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Farmer asked a query regarding fertilizer optimum time in Apricot
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Schedule:Before application of inorganic fertilizers and other nutrients  the orchardists shouldconsult the horticulture experts for obtaining the best results First dose of fertilizers comprising 13 rd of urea along with full DAP and 12 of MOPshould be applied before 3 weeks of expected bloom as basal doseSecond dose comprising 13 rd of urea and remaining MOP may be applied about 3weeks after fruit setA Third dose of urea may be applied during June-July

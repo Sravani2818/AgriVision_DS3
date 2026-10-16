@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0376
+========================================================================
+Source Record ID: kcc_0e4fda4faf7454e3
+Idx: 524824
+Crop: Mint
+State: MADHYA PRADESH
+District: CHHATARPUR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+tell me about sowing time of mint
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Planting Rooted stem cuttings are planted in beds at 40 x 40 cm spacing during June - July

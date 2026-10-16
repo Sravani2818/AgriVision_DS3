@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0143
+========================================================================
+Source Record ID: kcc_05538ed6f1032b14
+Idx: 2429258
+Crop: Rose
+State: ANDHRA PRADESH
+District: CHITTOOR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ROOT ROT MANAGEMENT IN ROSE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY COPPER OXYCHLORIDE 600 GRAMS STREPTOCYCLINE 20 GRAM  200 LITRES OF WATER ACRE   600    20  200

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0029
+========================================================================
+Source Record ID: kcc_011dbb0d735ce24c
+Idx: 645313
+Crop: Fig
+State: RAJASTHAN
+District: JODHPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+FRUIT FALL DOWN IN GUNDA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF PLANOFIX 1 ML PER 4 LITER WATER FOR FLOWER DROP CONTROL

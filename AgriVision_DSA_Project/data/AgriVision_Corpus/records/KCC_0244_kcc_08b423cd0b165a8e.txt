@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0244
+========================================================================
+Source Record ID: kcc_08b423cd0b165a8e
+Idx: 1041394
+Crop: Others
+State: MAHARASHTRA
+District: PARBHANI
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+asking about spacing of mulberry
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spacing of mulberry- 60 60 cm

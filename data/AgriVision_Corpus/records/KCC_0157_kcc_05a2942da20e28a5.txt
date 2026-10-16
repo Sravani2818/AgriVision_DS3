@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0157
+========================================================================
+Source Record ID: kcc_05a2942da20e28a5
+Idx: 1999217
+Crop: Neem
+State: RAJASTHAN
+District: JAIPUR
+Sector: HORTICULTURE
+Query Type: Soil Testing
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT TAKING SOIL SAMPLE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+DEEG 6-9 INCH DEEP V SHAPE PIT AND TAKING 500 GM SOIL SAMPLE FOR TESTING SOIL

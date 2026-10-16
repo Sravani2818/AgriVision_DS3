@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0393
+========================================================================
+Source Record ID: kcc_0e9f64d438849083
+Idx: 3611624
+Crop: Bhang Hemp Canabis
+State: WEST BENGAL
+District: WEST MEDINIPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+ASKING ABOUT HANGING SOWING PROCESS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+APNI ORCHID JOLIYE CHAS KORUN I

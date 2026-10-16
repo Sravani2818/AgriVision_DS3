@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0039
+========================================================================
+Source Record ID: kcc_016e4784111feabf
+Idx: 1138712
+Crop: Carrot
+State: RAJASTHAN
+District: JHUNJHUNU
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME NO PROPER GROUTH IN CARROT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF POTASSIUM SULPHATE 0:0:50 10 GM PER LITER WATER

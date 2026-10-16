@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0108
+========================================================================
+Source Record ID: kcc_03e769bdd5b4956a
+Idx: 838246
+Crop: Melon
+State: ANDHRA PRADESH
+District: PRAKASAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+MELON FRUIT ROT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR COPPER OXY CHLORIDE BLITOX 600 GRAMS PER ACRE

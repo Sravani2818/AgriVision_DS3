@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0437
+========================================================================
+Source Record ID: kcc_101a718e554af156
+Idx: 253642
+Crop: Carnation
+State: RAJASTHAN
+District: JAIPUR
+Sector: HORTICULTURE
+Query Type: Water Management Micro Irrigation
+Season: RABI
+
+FARMER QUERY
+--------------------
+tell me irrigation in carnation
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+6-8 days irrigation in carnation

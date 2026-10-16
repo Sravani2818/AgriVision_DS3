@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0241
+========================================================================
+Source Record ID: kcc_08ac2b67d41eb626
+Idx: 2218813
+Crop: Snap Melon
+State: MAHARASHTRA
+District: JALGAON
+Sector: HORTICULTURE
+Query Type: Vegetative Propagation and Tissue Culture
+
+FARMER QUERY
+--------------------
+ASKING ABOUT SPRAY FOR CONTROLLING FRUIT CRACKING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Plano fix 5ml15 Lit of WaterNAA BAYER

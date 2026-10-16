@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0073
+========================================================================
+Source Record ID: kcc_02aa7995ca6dcf67
+Idx: 1618648
+Crop: Triticale
+State: RAJASTHAN
+District: JODHPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TEEL ME CONTROL OF WEED
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ALL WEED CONTROL IN WHEAT CROPS SPRAY TOTAL SULFOSULFURAN 75METASULFURAN METHYL 5  80 WG 32 GM DISSOLVE 400-500 LITAR WATER SPRAY AFTER SOWING 30-35 DAYS

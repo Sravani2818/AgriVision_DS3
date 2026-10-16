@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0116
+========================================================================
+Source Record ID: kcc_046644da6ed588d1
+Idx: 2650867
+Crop: Colocasia Arvi Arbi
+State: UTTAR PRADESH
+District: BADAUN
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Information about Weed Control in Arbi Crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Pendimethilene 30 EC  1200 ml      200          72

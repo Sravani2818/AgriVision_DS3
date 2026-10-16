@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0346
+========================================================================
+Source Record ID: kcc_0cdc958a1d92f79c
+Idx: 2723303
+Crop: Jamun
+State: WEST BENGAL
+District: SOUTH 24 PARGANAS
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT FLOWER DEVELOP IN JAMUN PLANTS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY   ALPHA NAPTHALENE ACETIC ACID   1 ML  45 LIT OF WATER

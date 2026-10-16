@@ -1,0 +1,42 @@
+AGRIVISION - CO4, CO5, CO6 REVIEW GUIDE
+=====================================
+
+HOW TO RUN
+----------
+Windows: double-click run.bat from the project folder.
+Terminal: run compile_and_run.sh (or compile with javac -encoding UTF-8 -d out src/agrivision/*.java).
+The main menu now has CO4, CO5, and CO6 entries. Existing CO1-CO3 modules and data are retained.
+
+CO4 - NETWORK FLOW (NetworkFlow.java)
+-------------------------------------
+1. Ford-Fulkerson: DFS finds an augmenting path in the residual graph; sends its bottleneck capacity.
+2. Edmonds-Karp: BFS chooses shortest augmenting paths; O(V E^2).
+3. Dinic: BFS levels + DFS blocking flow; general bound O(V^2 E).
+4. Min-cut: after max-flow, residual reachability identifies the source side of a minimum cut.
+5. Bipartite matching: augmenting-path matching assigns each farm/resource at most once.
+6. Min-cost max-flow: conceptual explanation of Successive Shortest Path and cycle-cancelling.
+Demo network nodes represent a water source, junctions, and destination; capacities are water-flow units.
+
+CO5 - NP-COMPLETENESS & APPROXIMATION (ComplexityApproximation.java)
+---------------------------------------------------------------------
+1. Vertex-cover 2-approximation: chooses both endpoints of an uncovered edge; every edge is covered and the result is at most twice optimal.
+2. Subset Sum DP: decides whether available quantities can total a target; O(n * target) time and O(target) space.
+3. 3-SAT-to-CLIQUE reduction: demonstrates graph construction conceptually; it is explicitly not a SAT solver.
+4. Guide explains decision vs optimisation, P, NP, co-NP, NP-completeness, reductions, PTAS/FPTAS/APX, FPT and kernelisation.
+5. Reduction zoo names the specified canonical relationships.
+
+CO6 - RANDOMISED & PARALLEL ALGORITHMS (RandomParallelAlgorithms.java)
+---------------------------------------------------------------------
+1. Randomized QuickSort: random pivot; expected O(n log n), worst O(n^2).
+2. Reservoir sampling: uniform sample of k items from a stream; O(N) time and O(k) storage.
+3. Miller-Rabin: probabilistic primality test; repeated rounds reduce false-positive probability.
+4. Parallel reduce: multiple Java threads sum chunks, then combine partial sums.
+5. Prefix scan: sequential reference output for cumulative sums; O(N). Used to explain the scan primitive.
+6. Work/span and Brent's theorem are explained in the menu.
+7. Universal/randomized hashing and parallel sorting are conceptual viva demonstrations.
+
+IMPORTANT SCOPE NOTES
+---------------------
+- These are educational reference demonstrations, not production irrigation controllers or agricultural decision systems.
+- Min-cost max-flow, SAT solving, full reduction graph generation for every reduction, universal hash-family implementation, and parallel Blelloch scan are covered at intuition level, as requested by the module outline; they are not presented as complete implementations.
+- Flow values and resource costs are sample test data to demonstrate algorithms, not measured field values.

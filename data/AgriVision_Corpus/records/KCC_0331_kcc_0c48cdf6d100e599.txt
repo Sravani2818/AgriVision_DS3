@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0331
+========================================================================
+Source Record ID: kcc_0c48cdf6d100e599
+Idx: 751063
+Crop: Chinar Tree
+State: UTTAR PRADESH
+District: RAEBARELI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+PAKHAR MAI DEEMAK
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+CLOROPAIREFOS KO PANI KE SATH DE

@@ -1,0 +1,19 @@
+AgriVision_DSA_Project/
+├── src/agrivision/
+│   ├── Main.java
+│   ├── DataLoader.java
+│   ├── CorpusRecord.java
+│   ├── SearchResult.java
+│   ├── StringAlgorithms.java
+│   ├── SuffixStructures.java
+│   ├── AdvancedDP.java
+│   └── DisplayUtils.java
+├── data/AgriVision_Corpus/
+│   ├── all_agriculture_text.txt
+│   ├── corpus_index.csv
+│   ├── README.txt
+│   └── records/ (500 TXT records)
+├── README.md
+├── VIVA_NOTES.txt
+├── run.bat
+└── compile_and_run.sh

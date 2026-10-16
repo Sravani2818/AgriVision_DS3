@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0240
+========================================================================
+Source Record ID: kcc_089fa73820780eb2
+Idx: 1882824
+Crop: Castor Rehri Rendi Arandi
+State: GUJARAT
+District: PATAN
+Sector: AGRICULTURE
+Query Type: Sowing Time and Weather
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+ASK ABOUT VARITESASK ABOUT SOWING TIME
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+CastorGCH-24567 GAUCH-115 July - 15 AUG

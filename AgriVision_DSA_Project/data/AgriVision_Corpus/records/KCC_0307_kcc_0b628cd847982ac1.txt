@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0307
+========================================================================
+Source Record ID: kcc_0b628cd847982ac1
+Idx: 1040379
+Crop: Dharaf Grass
+State: MAHARASHTRA
+District: JALNA
+Sector: AGRICULTURE
+Query Type: Agriculture Mechanization
+Season: RABI
+
+FARMER QUERY
+--------------------
+fertilizer dose for grass
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+fertilizer dose for grass- apply urea

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0335
+========================================================================
+Source Record ID: kcc_0c69e27b1bf48abf
+Idx: 154772
+Crop: Barseem
+State: JAMMU AND KASHMIR
+District: JAMMU
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+INFESTATION OF FUNGUS IN BERSEEM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY MANCOZEB AFTER 1ST CUTTING WITH A WAITING PERIOD OF 7-10 DAYS

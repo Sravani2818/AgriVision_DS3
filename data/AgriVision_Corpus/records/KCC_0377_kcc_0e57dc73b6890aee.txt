@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0377
+========================================================================
+Source Record ID: kcc_0e57dc73b6890aee
+Idx: 677533
+Crop: Curry Leaf
+State: TAMILNADU
+District: VIRUDHUNAGAR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Curry leaf varieties
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for curry leaf varieties Sen Kaampa Dharwad-1 and Dharwad-2

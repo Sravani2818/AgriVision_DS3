@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0252
+========================================================================
+Source Record ID: kcc_091fb574e0be7ec2
+Idx: 2078226
+Crop: Kiwi Fruit
+State: UTTAR PRADESH
+District: ALLAHABAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+COCONUT FRUIT FALLS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PLANOFIX 1 ML PRATI 3 LITAR PANI ME  GHOLKAR SPRE KARE

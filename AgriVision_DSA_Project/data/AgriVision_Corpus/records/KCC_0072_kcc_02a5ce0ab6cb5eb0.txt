@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0072
+========================================================================
+Source Record ID: kcc_02a5ce0ab6cb5eb0
+Idx: 3215850
+Crop: Fenugreek
+State: UTTAR PRADESH
+District: BANDA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Provide information for plant protection in fenugreek crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+178 SL 100ml  200

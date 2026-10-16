@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0099
+========================================================================
+Source Record ID: kcc_038ea60c51eaae15
+Idx: 3337147
+Crop: Apple
+State: JAMMU AND KASHMIR
+District: ANANTNAG
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+regarding application of Applin and Solubar in apple orchards
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+the farmer was advised that there is no recommendation of Applin from our side but can go for spray of Solubar 1gliter of water at pink bud stage repeat after 21 days or spray with planofix1 ml in 45 liters of water these can be repeated at fruit sett stage as well

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0405
+========================================================================
+Source Record ID: kcc_0f1c9915b33abb16
+Idx: 8070
+Crop: Gladiolus
+State: WEST BENGAL
+District: HOWRAH
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+CULTIVATION OF GLADIOLUS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ALL INFORMATION GIVEN IN DETAILS

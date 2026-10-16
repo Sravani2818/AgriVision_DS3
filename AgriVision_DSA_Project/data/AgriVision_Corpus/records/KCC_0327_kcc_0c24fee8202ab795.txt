@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0327
+========================================================================
+Source Record ID: kcc_0c24fee8202ab795
+Idx: 2131542
+Crop: Pointed Gourd
+State: WEST BENGAL
+District: NORTH 24 PARGANAS
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+ASKING ABOUT FLOWER INCREASING IN POINTED GOURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY  N-TRICONTRONAL  01  EW  1 ML  3 LIT OF WATER

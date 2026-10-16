@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0226
+========================================================================
+Source Record ID: kcc_0815285fc7b17487
+Idx: 2387572
+Crop: Mosambi
+State: MAHARASHTRA
+District: NANDED
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT ATTACK OF FRUIT  FLY ON ON MOSAMBI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ATTACK OF FRUIT  FLY ON ON MOSAMBI -USE  METHYLE UJENOL TRAP 5-6  ACRE

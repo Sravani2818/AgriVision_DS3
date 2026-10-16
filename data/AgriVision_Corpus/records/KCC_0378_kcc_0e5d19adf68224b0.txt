@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0378
+========================================================================
+Source Record ID: kcc_0e5d19adf68224b0
+Idx: 1895038
+Crop: Apricot
+State: JAMMU AND KASHMIR
+District: PULWAMA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+spray for apricot
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Mancozeb 75 WP 300 g or Propineb 70 WP 300 g orZineb 75 WP 300 g orCaptan 50 WP 300 g orZiram 80 WP 200 g orCaptan 70  Hexaconazole 5 75 WP 50 g orTrifloxystrobin 25  Tebuconazole 50 75 WG 40 g

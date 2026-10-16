@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0137
+========================================================================
+Source Record ID: kcc_05163d23949c8ddd
+Idx: 2158523
+Crop: Ash Gourd Petha
+State: ASSAM
+District: KAMRUP
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Asking about control measure of fruit fly
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested to spray Rogor  2 ml per lit of watrer

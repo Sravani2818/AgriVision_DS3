@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0127
+========================================================================
+Source Record ID: kcc_04be9ea01bf24675
+Idx: 1244729
+Crop: Smooth Guard
+State: UTTAR PRADESH
+District: ALLAHABAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+smooth gouard me sucking pest ki problem
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray of  Imidachloprid 178 SL-05 ml lit

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0082
+========================================================================
+Source Record ID: kcc_02f10613e3fa06bd
+Idx: 324396
+Crop: Amarphophallus SurankandElephant Foot Yam
+State: UTTAR PRADESH
+District: ALLAHABAD
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+arvi ka germination nhi ho rha hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+germination time pr hoga

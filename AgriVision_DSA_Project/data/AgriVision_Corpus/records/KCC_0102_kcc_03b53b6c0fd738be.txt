@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0102
+========================================================================
+Source Record ID: kcc_03b53b6c0fd738be
+Idx: 3889102
+Crop: Sandal Wood
+State: UTTAR PRADESH
+District: HARDOI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about Leaf Curl Control in Sandalwood Plant
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+30 EC  2

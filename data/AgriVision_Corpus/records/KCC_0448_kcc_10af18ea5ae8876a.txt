@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0448
+========================================================================
+Source Record ID: kcc_10af18ea5ae8876a
+Idx: 358072
+Crop: Mustard
+State: UTTAR PRADESH
+District: JYOTIBA PHULE NAGAR
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+sarsho ki varietes
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NDR-8501 kiranti NRCHB-506

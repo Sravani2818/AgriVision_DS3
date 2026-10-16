@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0404
+========================================================================
+Source Record ID: kcc_0f14c4c036025b5d
+Idx: 2024507
+Crop: Pumpkin
+State: TAMILNADU
+District: COIMBATORE
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+asking about Gourds sowing season
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for Gourds sowing season is July and January

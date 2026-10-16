@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0146
+========================================================================
+Source Record ID: kcc_05614ee23d10c5fd
+Idx: 3257436
+Crop: Kodo Millet KodaraVaragu
+State: ANDHRA PRADESH
+District: GUNTUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+BEST SOWING TIME OF KODO MILLET  INFORMATION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+BEST SOWING TIME OF KODO MILLET  INFORMATION  JANUARY 15TH TO 15 TH OF FEBRAURY

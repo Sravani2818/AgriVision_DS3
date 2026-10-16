@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0319
+========================================================================
+Source Record ID: kcc_0be108aca520f59d
+Idx: 3574258
+Crop: Indian rapeseed and mustard yellow sarson
+State: JHARKAND
+District: SAHIBGANJ
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Query of plant protection in mustard
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+N:P:K-18:18:18 YA N:P:K-19:19:19  1       200

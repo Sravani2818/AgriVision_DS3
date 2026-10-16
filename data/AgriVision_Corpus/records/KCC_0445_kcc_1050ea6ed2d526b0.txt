@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0445
+========================================================================
+Source Record ID: kcc_1050ea6ed2d526b0
+Idx: 23710
+Crop: Jute
+State: WEST BENGAL
+District: MURSHIDABAD
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+FERTILISER DOSE OF JUTETOSSA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+APPLY N:P:K50:25:50 KGHA

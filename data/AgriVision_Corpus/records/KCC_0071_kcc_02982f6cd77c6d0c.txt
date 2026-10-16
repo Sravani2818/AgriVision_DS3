@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0071
+========================================================================
+Source Record ID: kcc_02982f6cd77c6d0c
+Idx: 1622440
+Crop: Methi Fenugreek
+State: RAJASTHAN
+District: NAGAUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME SEED RATE OF SOUNP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+8 TO 10 KILO PAR HEC

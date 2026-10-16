@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0253
+========================================================================
+Source Record ID: kcc_092760ae78a264a4
+Idx: 1490837
+Crop: Satawar
+State: MADHYA PRADESH
+District: BALAGHAT
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Farmer wants to know information about how to control sucking pest in SATAWAR crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for spray imidaclopid 5-7 mlpump

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0278
+========================================================================
+Source Record ID: kcc_0a15257d4751528d
+Idx: 3682550
+Crop: Hibiscus Gurhal
+State: WEST BENGAL
+District: NORTH 24 PARGANAS
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT6 CONTROL OF MELAY BUG IN HIBISCUS PLANT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY   THIAMETHOXAM 25 WG  1 GM  2 LIT OF WATER

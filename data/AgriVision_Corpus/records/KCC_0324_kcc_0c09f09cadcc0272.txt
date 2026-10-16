@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0324
+========================================================================
+Source Record ID: kcc_0c09f09cadcc0272
+Idx: 2169656
+Crop: Lucerne Alfalfa
+State: GUJARAT
+District: KHEDA
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+Season: 0
+
+FARMER QUERY
+--------------------
+Ask about lucerne fertilizer
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested:UREA 20 kilo per ha

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0438
+========================================================================
+Source Record ID: kcc_101abd585d3693a1
+Idx: 821250
+Crop: Ginger
+State: UTTARAKHAND
+District: NAINITAL
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+adrak ka ped uper se lekar niche tak pila ho raha hai aur kand gal raha hai kya kare
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+aap apni fasal par radomil   2 gramliter ki dar se ghol banakar sham ko chidkav kare

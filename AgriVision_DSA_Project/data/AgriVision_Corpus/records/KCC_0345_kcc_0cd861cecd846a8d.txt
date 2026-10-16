@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0345
+========================================================================
+Source Record ID: kcc_0cd861cecd846a8d
+Idx: 3030533
+Crop: White Clover Shaftal
+State: UTTAR PRADESH
+District: PRATAPGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about fungus disease  Nutrient deficiency in flower
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+12    63 WP 300  400       200        15    300

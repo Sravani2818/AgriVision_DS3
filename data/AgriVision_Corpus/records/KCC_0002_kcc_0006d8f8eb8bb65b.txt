@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0002
+========================================================================
+Source Record ID: kcc_0006d8f8eb8bb65b
+Idx: 254266
+Crop: rajka bajri
+State: RAJASTHAN
+District: JAIPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME CONTROL BLIGHT DISEASES OF BAJARI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY MANKOZEB 2GMLITTER WATER

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0424
+========================================================================
+Source Record ID: kcc_0fa96e3a84f528bf
+Idx: 2985793
+Crop: Safflower kusumkardi
+State: TELANGANA
+District: VIKARABAD
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+SAFFLOWER APHID MANAGEMENT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY DIMETHOATE  400 ML 200 LITRES OF WATER ACRE    400   200

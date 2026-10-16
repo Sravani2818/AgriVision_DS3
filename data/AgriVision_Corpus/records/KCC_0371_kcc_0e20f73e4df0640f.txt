@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0371
+========================================================================
+Source Record ID: kcc_0e20f73e4df0640f
+Idx: 3643406
+Crop: Yard Long Bean
+State: ASSAM
+District: NAGAON
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+QUERY REGARDING NUTRIENT MANAGEMENT OF LONG BEAN
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+FOR FLOWERING-- APPLY POWER-M AND VITAMIN --APPLY SAGARIKA 2ml L OF WATER AT 7-10DAYS INTERVAL

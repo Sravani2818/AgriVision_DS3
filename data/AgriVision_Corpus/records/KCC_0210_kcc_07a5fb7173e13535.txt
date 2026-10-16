@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0210
+========================================================================
+Source Record ID: kcc_07a5fb7173e13535
+Idx: 3929852
+Crop: Buffel Grass Anjan Grass
+State: ODISHA
+District: CUTTACK
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+Source of Para grass propagating material
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Advise to visit Krishi Vigyan Kendra Cuttack  Address: Santhapur AtPO: Uchhapada Via: Kotasahi Odisha 754022  to get Para grass propagating material

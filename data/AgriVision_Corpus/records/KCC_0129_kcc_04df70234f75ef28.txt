@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0129
+========================================================================
+Source Record ID: kcc_04df70234f75ef28
+Idx: 3072740
+Crop: Mushroom
+State: JHARKAND
+District: WEST SINGHBHUM
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+farmer asked query about availability of of Mushroom spawn
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--                      -   -            : [PHONE]

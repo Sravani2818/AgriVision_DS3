@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0495
+========================================================================
+Source Record ID: kcc_12a39910b279e644
+Idx: 2100824
+Crop: Kiwi Fruit
+State: UTTAR PRADESH
+District: SITAPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+kinnu ki kheti
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+kisan bhai aap kinnu ki kheti aap ke chhetra me ki ja sakati hai

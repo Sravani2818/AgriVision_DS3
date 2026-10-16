@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0426
+========================================================================
+Source Record ID: kcc_0fd4206d5e8d05d3
+Idx: 1039820
+Crop: Sorghum JowarGreat Millet
+State: MAHARASHTRA
+District: JALNA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Attack of  Wilt MarDrenching
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Blue Copper 30 gm humic acid 30 mlCopper Oxichloride-syngenta

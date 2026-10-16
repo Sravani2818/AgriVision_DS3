@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0500
+========================================================================
+Source Record ID: kcc_12d81d3ad0f259c5
+Idx: 2543524
+Crop: Cardamom
+State: ODISHA
+District: SUNDARGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Poor fruiting in Cardamom
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Advised to spray Fantac plus  8-10 ml15 L to enhance flowering and fruiting in Cardamom

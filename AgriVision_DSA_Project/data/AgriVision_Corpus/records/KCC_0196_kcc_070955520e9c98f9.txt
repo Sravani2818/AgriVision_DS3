@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0196
+========================================================================
+Source Record ID: kcc_070955520e9c98f9
+Idx: 1165939
+Crop: Pigeon pea red gramarhartur
+State: TAMILNADU
+District: SALEM
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+leaf blight in cowpea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for spray carbendazim 2gm litre

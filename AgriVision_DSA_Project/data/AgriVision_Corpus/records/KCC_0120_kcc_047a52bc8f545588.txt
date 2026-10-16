@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0120
+========================================================================
+Source Record ID: kcc_047a52bc8f545588
+Idx: 1352574
+Crop: Sapota
+State: WEST BENGAL
+District: NORTH 24 PARGANAS
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+CONTROL OF DROPPING FLOWER DROPPING IN SAPOTA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY ALPHA NEPTHALENE ACETIC ACID  1 ML  45 LIT OF WATER

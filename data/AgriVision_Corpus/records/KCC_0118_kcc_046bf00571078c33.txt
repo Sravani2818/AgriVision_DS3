@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0118
+========================================================================
+Source Record ID: kcc_046bf00571078c33
+Idx: 2305295
+Crop: Satawar
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+SEED AND PLANTING MATERIAL IN SATAVAR
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+KISAN BHAI AAP SATAR KE LIYE seed 3-4 KGh ki awasyakta hoti hai bubai ka samaye julay se agust

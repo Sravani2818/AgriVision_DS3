@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0136
+========================================================================
+Source Record ID: kcc_05081402050c0cbc
+Idx: 3822784
+Crop: Pigeon pea red gramarhartur
+State: MAHARASHTRA
+District: WASHIM
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+FARMER ASKED ABOUT ATTACK OF WILT IN REDGRAM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+-      WP -    30

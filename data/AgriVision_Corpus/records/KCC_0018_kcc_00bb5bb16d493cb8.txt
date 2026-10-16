@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0018
+========================================================================
+Source Record ID: kcc_00bb5bb16d493cb8
+Idx: 2987860
+Crop: Kokum
+State: ANDHRA PRADESH
+District: Y S R
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+FARMER ASKED QUERY ON FLAX SEEDS GROWH STAGES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+The life cycle of the flax plant consists of a 45- to 60-day vegetative period a 15- to 25-day flowering period and a maturation period of 30 to 40 days  The crop lifecycle from seeding to maturity is typically 90 to 125 days depending on overall environmental conditions1

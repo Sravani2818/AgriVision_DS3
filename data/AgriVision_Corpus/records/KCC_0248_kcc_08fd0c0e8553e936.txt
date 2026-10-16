@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0248
+========================================================================
+Source Record ID: kcc_08fd0c0e8553e936
+Idx: 3539043
+Crop: Pea Vegetable
+State: UTTAR PRADESH
+District: ALIGARH
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Matar ki fasal me adhik futav ke lie kya kare
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NPK 19:19:19  1 kg   250 ml      200

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0441
+========================================================================
+Source Record ID: kcc_10410911c983a570
+Idx: 1051558
+Crop: BhindiOkraLadysfinger
+State: MAHARASHTRA
+District: BULDANA
+Sector: HORTICULTURE
+Query Type: Agriculture Mechanization
+
+FARMER QUERY
+--------------------
+Variety of bhendi  cluster bean
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Variety of bhendi -phule utkarshaparbhani krantiarka    anamikaVariety of clusterbean-nirmal 3nandininirmal 6740

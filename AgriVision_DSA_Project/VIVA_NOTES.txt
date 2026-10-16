@@ -1,0 +1,68 @@
+AGRIVISION – QUICK VIVA NOTES
+=============================
+
+1. Why TXT?
+The Review-1 algorithms are mostly text/string algorithms. A TXT corpus lets the
+same agricultural information be treated as a continuous searchable text source.
+
+2. What is the input?
+The project loads data/AgriVision_Corpus/all_agriculture_text.txt and the individual
+record TXT files at startup. Nothing is hard-coded as the main dataset.
+
+3. Why KMP?
+KMP avoids unnecessary re-comparison after a mismatch by using the LPS table.
+
+4. What is LPS?
+LPS[i] = length of the longest proper prefix of the pattern that is also a suffix
+ending at i.
+
+5. Why Z algorithm?
+Z[i] gives the length of the substring starting at i that matches the complete
+prefix. Pattern + separator + text turns pattern matching into Z-value checking.
+
+6. Why Rabin-Karp?
+It compares rolling hashes first and verifies a matching hash to avoid collision errors.
+
+7. Why Aho-Corasick?
+It searches many disease/agricultural keywords in one text scan using a Trie plus
+failure links.
+
+8. Why Trie?
+A Trie stores words character-by-character. This project additionally stores exact
+character positions at terminal nodes so the UI can report where the word occurs.
+
+9. Why suffix array?
+It lexicographically indexes all suffixes. Binary search can then locate every suffix
+that starts with a requested pattern.
+
+10. What is LCP/Kasai?
+LCP stores the common-prefix length of adjacent suffixes in suffix-array order.
+Kasai computes all LCP values in linear time after the suffix array is built.
+
+11. Edit distance?
+The DP state represents the minimum edits needed to transform one agricultural term
+or query into another.
+
+12. Needleman-Wunsch?
+Global sequence alignment. It aligns the complete two sequences.
+
+13. Smith-Waterman?
+Local sequence alignment. It finds the best matching region rather than forcing the
+entire sequences to align.
+
+14. Bitmask DP?
+The mask records which resources have already been assigned. Each state represents
+a unique subset of used resources.
+
+15. Matrix Chain?
+The matrix dimensions stay fixed, but parenthesization changes the number of scalar
+multiplications. DP finds the minimum-cost order.
+
+16. Exact positions?
+All string-search algorithms return zero-based character offsets in the text being
+searched. This is important for document retrieval and makes the output verifiable.
+
+17. One-line project explanation:
+"AgriVision is a menu-driven agricultural text analytics system that applies string
+matching, indexing, suffix structures and dynamic programming to a real agricultural
+advisory corpus."

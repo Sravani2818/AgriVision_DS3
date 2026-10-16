@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0385
+========================================================================
+Source Record ID: kcc_0e7525c94ace723d
+Idx: 3141351
+Crop: Betel Vine
+State: MADHYA PRADESH
+District: SAGAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Farmer need information regarding control measure of fungal attack in Betal Vine crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--             63   12 WP   40      2    15

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0003
+========================================================================
+Source Record ID: kcc_0011aab175bdb9c3
+Idx: 2801416
+Crop: Turnip Saljam
+State: JAMMU AND KASHMIR
+District: KULGAM
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+regarding poor growth of turnip
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Select suitable variety Proper sowing timeProper spacingNutrient management

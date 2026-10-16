@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0474
+========================================================================
+Source Record ID: kcc_11b1d8313b809f87
+Idx: 559579
+Crop: Cotton Kapas
+State: MAHARASHTRA
+District: PARBHANI
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+asked about reddening of cotton
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+give 10 kg magnesium sulphate

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0170
+========================================================================
+Source Record ID: kcc_062d23dab5d39d2c
+Idx: 2071420
+Crop: Safflower kusumkardi
+State: UTTAR PRADESH
+District: BIJNOR
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: RABI
+
+FARMER QUERY
+--------------------
+sanflower ki information
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+No Possibility Of Rain In Next 6 Days

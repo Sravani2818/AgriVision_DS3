@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0363
+========================================================================
+Source Record ID: kcc_0da6e0cb476826a5
+Idx: 1616860
+Crop: Bishops Weed
+State: RAJASTHAN
+District: JHALAWAR
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME TERMITE CONTROL IN ISABGOL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+USE OF IMEDACHLOPRID 250 MLBIGHA

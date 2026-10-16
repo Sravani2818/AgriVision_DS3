@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0381
+========================================================================
+Source Record ID: kcc_0e6b53c4b931013a
+Idx: 3029617
+Crop: Sudan Grass
+State: UTTAR PRADESH
+District: SITAPUR
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+Information about seed rate of Sudan Grass
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+10  12     l

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0449
+========================================================================
+Source Record ID: kcc_10b0645abbda5f24
+Idx: 1157443
+Crop: Safed Musli
+State: RAJASTHAN
+District: DAUSA
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME SEED RATE OF ASHAWGANDHA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SEED RATE OF ASHAWGANDHA  10-12 KG PER HA

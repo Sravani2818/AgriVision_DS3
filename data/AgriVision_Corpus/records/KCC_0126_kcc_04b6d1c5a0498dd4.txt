@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0126
+========================================================================
+Source Record ID: kcc_04b6d1c5a0498dd4
+Idx: 485089
+Crop: Safflower kusumkardi
+State: KARNATAKA
+District: KOPPAL
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+SAFFFLOWER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ANNIGERI

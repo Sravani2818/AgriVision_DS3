@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0255
+========================================================================
+Source Record ID: kcc_092a57c5ea790d8d
+Idx: 3699282
+Crop: Kodo Millet KodaraVaragu
+State: UTTAR PRADESH
+District: BADAUN
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about to insect control in Maize crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+5 SG 100    200

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0153
+========================================================================
+Source Record ID: kcc_0583922c4e488665
+Idx: 285372
+Crop: Tuberose
+State: TAMILNADU
+District: DHARMAPURI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+tube rose nutrient mgt
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+foliar spray 19:19:19 npk mixture 5glit

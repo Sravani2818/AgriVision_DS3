@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0030
+========================================================================
+Source Record ID: kcc_012ad2e66743cc8f
+Idx: 426401
+Crop: Pearl Millet BajraBulrush MilletSpiked Millet
+State: GUJARAT
+District: BANAS KANTHA
+Sector: AGRICULTURE
+Query Type: Seeds
+Season: RABI
+
+FARMER QUERY
+--------------------
+ask for pearl millet varieties
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+pearl millet varieties ghb 558538

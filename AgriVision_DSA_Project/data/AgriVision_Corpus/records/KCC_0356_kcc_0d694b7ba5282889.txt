@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0356
+========================================================================
+Source Record ID: kcc_0d694b7ba5282889
+Idx: 1849530
+Crop: Birdwood Grass
+State: DELHI
+District: EAST DELHI Preet Vihar
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+tell me aksya urja vibhaj
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+[PHONE]

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0362
+========================================================================
+Source Record ID: kcc_0d9d81e511c6fe71
+Idx: 721403
+Crop: Kiwi Fruit
+State: UTTAR PRADESH
+District: FATEHPUR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+TARBOOJ MAI BUBAI SE PAHLE DAVA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PENDI METHILIN KA SPREY KARE BUBAI SE PAHLE

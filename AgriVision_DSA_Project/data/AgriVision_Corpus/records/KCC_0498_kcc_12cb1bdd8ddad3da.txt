@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0498
+========================================================================
+Source Record ID: kcc_12cb1bdd8ddad3da
+Idx: 3343610
+Crop: Mango
+State: JAMMU AND KASHMIR
+District: JAMMU
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Regarding insect control on Mango trees
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray chlropyriphos  2ml in 1 liter of water

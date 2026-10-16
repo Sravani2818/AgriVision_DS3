@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0249
+========================================================================
+Source Record ID: kcc_0901a172d14d46c4
+Idx: 1187844
+Crop: Jasmine
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+fertilizer recommended for  Mullai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for apply the fertilizer NPK  120:240:120 gplantyear

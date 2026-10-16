@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0222
+========================================================================
+Source Record ID: kcc_07fc12898a6e4aa6
+Idx: 1496029
+Crop: Pigeon pea red gramarhartur
+State: MADHYA PRADESH
+District: SHIVPURI
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+Farmer wants to know information about how to control sucking pest in pigeonpea crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended spray Dimethoate 30 EC 500 mlha

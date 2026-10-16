@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0439
+========================================================================
+Source Record ID: kcc_102628da44138c2b
+Idx: 1411579
+Crop: Chinar Tree
+State: ASSAM
+District: DARRANG
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+asking about red ant management in betelvine
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended to spray malathion 5  dust  2 g per lit of water

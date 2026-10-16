@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0011
+========================================================================
+Source Record ID: kcc_0061d79623fff38d
+Idx: 288451
+Crop: Loquat
+State: TAMILNADU
+District: ERODE
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+turmeric thrips
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Fipronil 5  SC 15 mllit of water

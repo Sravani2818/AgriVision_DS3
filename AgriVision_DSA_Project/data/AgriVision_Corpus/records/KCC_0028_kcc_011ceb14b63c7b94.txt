@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0028
+========================================================================
+Source Record ID: kcc_011ceb14b63c7b94
+Idx: 887369
+Crop: Apricot
+State: BIHAR
+District: ARARIA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Fruit cracking
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Fruit crackingSpray Borex  2gmlit of water

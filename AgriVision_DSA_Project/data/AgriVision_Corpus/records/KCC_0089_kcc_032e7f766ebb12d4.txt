@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0089
+========================================================================
+Source Record ID: kcc_032e7f766ebb12d4
+Idx: 473328
+Crop: Garden Pea
+State: JAMMU AND KASHMIR
+District: BARAMULLA
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+seed rate of peas
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+THE SEED RATE OF PEA IS 3 KG PER KANAL

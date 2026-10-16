@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0367
+========================================================================
+Source Record ID: kcc_0df51b9931d328ea
+Idx: 1597487
+Crop: Mustard
+State: PUNJAB
+District: PATIALA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+Information regarding for Mustard
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Rogor 200 Ml 200 liter water Per acre

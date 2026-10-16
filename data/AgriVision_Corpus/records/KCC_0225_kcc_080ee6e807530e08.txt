@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0225
+========================================================================
+Source Record ID: kcc_080ee6e807530e08
+Idx: 1102500
+Crop: Winged Bean
+State: PUNJAB
+District: HOSHIARPUR
+Sector: AGRICULTURE
+Query Type: Varieties
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+INFORMATION REGARDING FOR THE SUITABLE VARIETIES OF SOYABEAN CROP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+THE SUITABLE VARIETIES OF SOYABEAN SL-958  SL-744SL-525

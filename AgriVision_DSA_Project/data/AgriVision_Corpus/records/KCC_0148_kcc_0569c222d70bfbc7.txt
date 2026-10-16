@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0148
+========================================================================
+Source Record ID: kcc_0569c222d70bfbc7
+Idx: 3396963
+Crop: Sorghum JowarGreat Millet
+State: UTTAR PRADESH
+District: BULANDSHAHAR
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Information of  Nutrient management in Jowar Crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+250 ml    200

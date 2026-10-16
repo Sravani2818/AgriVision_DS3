@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0062
+========================================================================
+Source Record ID: kcc_0260a1f0e5e8c7dd
+Idx: 1953682
+Crop: Buffel Grass Anjan Grass
+State: MAHARASHTRA
+District: JALNA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+Attack of Thrips and Jassids
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Neem Solution 20 ml  10 Liter of Water

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0045
+========================================================================
+Source Record ID: kcc_01b3a8de45c8c514
+Idx: 3096536
+Crop: Little Millet SamaiKutkikodo-kutki
+State: MADHYA PRADESH
+District: SEONI
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Farmer wants to know information about how to control caterpillar Fall army in maize
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+5 SG   -

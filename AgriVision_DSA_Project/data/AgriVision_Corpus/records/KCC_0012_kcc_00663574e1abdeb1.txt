@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0012
+========================================================================
+Source Record ID: kcc_00663574e1abdeb1
+Idx: 92530
+Crop: Spine Gourd
+State: ASSAM
+District: NAGAON
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT THE CONTROL  OF APHID IN SPINE GOURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SUGGESTED TO APPLY THE ROGOR 35EC2MLLIT OF WATER

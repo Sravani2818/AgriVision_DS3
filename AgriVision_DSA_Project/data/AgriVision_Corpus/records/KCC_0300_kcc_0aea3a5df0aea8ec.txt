@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0300
+========================================================================
+Source Record ID: kcc_0aea3a5df0aea8ec
+Idx: 1478854
+Crop: Capsicum
+State: KERALA
+District: ERNAKULAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+seeds
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+MsPGirijaProgramme Coordinator ICKrishi Vigyan KendraMitraniketanVellanad0472-2[PHONE]-2[PHONE]-2883595 [PHONE]

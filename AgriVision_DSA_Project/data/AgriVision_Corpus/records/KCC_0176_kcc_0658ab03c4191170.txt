@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0176
+========================================================================
+Source Record ID: kcc_0658ab03c4191170
+Idx: 2040645
+Crop: Caleus
+State: TAMILNADU
+District: DINDIGUL
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+asking about gloriosa tuber rot management
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for apply pseudomonas fluorescens - 1 kg 20 kg of FYM  acre

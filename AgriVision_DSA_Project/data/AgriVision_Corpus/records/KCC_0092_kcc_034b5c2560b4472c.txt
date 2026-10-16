@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0092
+========================================================================
+Source Record ID: kcc_034b5c2560b4472c
+Idx: 2846444
+Crop: Stevia
+State: MAHARASHTRA
+District: SANGLI
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+FARMER ASKED ABOUT PLANTATION TIME FOR STEVIA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+4-5    -  -  45 x 45

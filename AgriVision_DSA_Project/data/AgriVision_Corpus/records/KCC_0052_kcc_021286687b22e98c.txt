@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0052
+========================================================================
+Source Record ID: kcc_021286687b22e98c
+Idx: 1566306
+Crop: Stylosanthes
+State: ODISHA
+District: BALASORE
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+PLANTING MATERIAL OF GRASS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SUGESTED TO INFORM BLOCK VETERNARY OFFICER FOR PLANTING MATERIAL OF GRASS

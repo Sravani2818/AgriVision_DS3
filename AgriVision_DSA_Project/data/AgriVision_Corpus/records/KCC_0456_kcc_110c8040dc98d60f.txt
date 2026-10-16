@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0456
+========================================================================
+Source Record ID: kcc_110c8040dc98d60f
+Idx: 846895
+Crop: Italian Millet ThenaiNavaneFoxtail MilletKang
+State: ANDHRA PRADESH
+District: KURNOOL
+Sector: AGRICULTURE
+Query Type: Weed Management
+
+FARMER QUERY
+--------------------
+Foxtail Millet weed control
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY ATRAZINEATRATOP  SOLARO  800 GRAMS PER ACRE

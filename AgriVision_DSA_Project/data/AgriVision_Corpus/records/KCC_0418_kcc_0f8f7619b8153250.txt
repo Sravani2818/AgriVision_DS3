@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0418
+========================================================================
+Source Record ID: kcc_0f8f7619b8153250
+Idx: 1683618
+Crop: Faba Bean Horse Beanwindsor Bean
+State: UTTAR PRADESH
+District: SAHARANPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+french bean me fal fool jhad raha hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+planofix  1 ml 3-4 liter paani me milakar spray kare

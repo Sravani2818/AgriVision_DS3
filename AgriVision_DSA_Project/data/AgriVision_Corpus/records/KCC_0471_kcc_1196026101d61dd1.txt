@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0471
+========================================================================
+Source Record ID: kcc_1196026101d61dd1
+Idx: 149325
+Crop: Plum
+State: HIMACHAL PRADESH
+District: UNA
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Information regarding doses of primary nutrient19:19:19 FERTILIZER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+doses of primary nutrient19:19:19 FERTILIZER  7gm10L of water

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0008
+========================================================================
+Source Record ID: kcc_002f159c8f99fc33
+Idx: 1100668
+Crop: Sweet Potato
+State: ODISHA
+District: BARGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+seed treatment in sweet potato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended 2 gm bavistin  2 gm chloropyriphos in 1 litre of water for seed treatment in sweet potato

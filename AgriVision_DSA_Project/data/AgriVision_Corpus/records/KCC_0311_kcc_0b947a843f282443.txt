@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0311
+========================================================================
+Source Record ID: kcc_0b947a843f282443
+Idx: 944178
+Crop: Apple
+State: JAMMU AND KASHMIR
+District: BADGAM
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+HOW TO CONTROL HAIL STORM INJURY IN APPLE TREES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY Myclobutanill 10W P 50 gIN 100 LITERS OF WATER

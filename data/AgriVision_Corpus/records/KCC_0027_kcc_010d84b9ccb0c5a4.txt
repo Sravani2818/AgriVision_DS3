@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0027
+========================================================================
+Source Record ID: kcc_010d84b9ccb0c5a4
+Idx: 1992522
+Crop: Common Millet PanivaraguChenaProso MilletHogm
+State: RAJASTHAN
+District: BARMER
+Sector: AGRICULTURE
+Query Type: Varieties
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME VARIETY OF BAJRA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+VARIETY OF BAJRA  HHB 67-2 RHB 173 RHB 173 RHB 121 GHB 538

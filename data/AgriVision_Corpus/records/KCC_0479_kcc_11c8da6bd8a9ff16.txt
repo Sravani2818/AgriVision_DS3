@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0479
+========================================================================
+Source Record ID: kcc_11c8da6bd8a9ff16
+Idx: 2395714
+Crop: Kundru
+State: RAJASTHAN
+District: PRATAPGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+TELL ME INSECT CONTROL IN KLONJI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF THIOMETHOXAM 25 WG 05 GM  PER LITER WATER

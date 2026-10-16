@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0357
+========================================================================
+Source Record ID: kcc_0d73b22e0b5dad21
+Idx: 769182
+Crop: Eculeptous
+State: UTTAR PRADESH
+District: SULTANPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+eculeptous ka bej kaha se milega
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+jila udhyan adhikari se sampark kare

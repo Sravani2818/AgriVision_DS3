@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0164
+========================================================================
+Source Record ID: kcc_0609880e0e01e7b5
+Idx: 1137750
+Crop: Barnyard Millet KundiraivlliSawan
+State: RAJASTHAN
+District: JHUNJHUNU
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+varity of bt cotton
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+VARIETY OF Bt COTTON  TULSI-4TULSI-118 MRCH 7017 MRCH 6304 ANKUR 3028 BIO SEED 6488

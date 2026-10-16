@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0162
+========================================================================
+Source Record ID: kcc_05cd215217768a21
+Idx: 82655
+Crop: Watermelon
+State: CHHATTISGARH
+District: RAIGARH
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+SOWING SEASON IN WATERMELON
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+FEB- MARCH

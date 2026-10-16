@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0372
+========================================================================
+Source Record ID: kcc_0e3a4f705d155e3f
+Idx: 3140460
+Crop: Tulsi
+State: HIMACHAL PRADESH
+District: KANGRA
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Information regarding tulsi planting distance
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Depending upon its growth habit prepare seed beds of 45 x 10 x 02m size Seeds should be sown at a distance of 60 cm by 60 cm Seeds are sown at depth of 2cm Crop is transplanted in field 6-7 week after sowing

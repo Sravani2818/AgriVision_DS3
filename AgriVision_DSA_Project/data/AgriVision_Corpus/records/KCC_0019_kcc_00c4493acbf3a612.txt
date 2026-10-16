@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0019
+========================================================================
+Source Record ID: kcc_00c4493acbf3a612
+Idx: 1043558
+Crop: Almond
+State: MAHARASHTRA
+District: BEED
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+fungus attak
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Redomil Gold 30gm 19:19:19 30gmHumic Acid 30ml 15 Lit of Water Drenching

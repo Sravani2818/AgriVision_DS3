@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0444
+========================================================================
+Source Record ID: kcc_1046e10f337dc829
+Idx: 1670347
+Crop: Avacado
+State: TAMILNADU
+District: DINDIGUL
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+Stem borer control management in avocado
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for Swab Coal tar  Kerosene  1:2

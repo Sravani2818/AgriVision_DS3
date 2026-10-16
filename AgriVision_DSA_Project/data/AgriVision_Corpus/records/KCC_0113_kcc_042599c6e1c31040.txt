@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0113
+========================================================================
+Source Record ID: kcc_042599c6e1c31040
+Idx: 1048816
+Crop: Palmyra
+State: MAHARASHTRA
+District: NANDED
+Sector: HORTICULTURE
+Query Type: Agriculture Mechanization
+
+FARMER QUERY
+--------------------
+detail information about tad cultivation
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+detail information about tad cultivation  -college of Agriculture Padannakkad PO Kasaragod - 671 328 Associate Dean [PHONE]

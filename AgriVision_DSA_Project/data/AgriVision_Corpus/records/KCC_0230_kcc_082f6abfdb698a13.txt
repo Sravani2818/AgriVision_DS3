@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0230
+========================================================================
+Source Record ID: kcc_082f6abfdb698a13
+Idx: 2787215
+Crop: Sweet Potato
+State: HARYANA
+District: GURGAON
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information regarding control of caterpillar  in sweet potato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+25 EC  800 -1000        40 EC 500 -600       20 EC  1    50  EC  800        45 SC  75   300        200-250

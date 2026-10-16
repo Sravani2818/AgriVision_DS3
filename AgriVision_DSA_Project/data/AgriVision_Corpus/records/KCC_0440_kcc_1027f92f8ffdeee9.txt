@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0440
+========================================================================
+Source Record ID: kcc_1027f92f8ffdeee9
+Idx: 1348703
+Crop: Sesame GingellyTilSesamum
+State: WEST BENGAL
+District: MURSHIDABAD
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+CONTROL OF LEAF CATERPILLER IN SESAMUM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY  ACEPHATE 75 SP  15 GM  2 LIT OF WATER

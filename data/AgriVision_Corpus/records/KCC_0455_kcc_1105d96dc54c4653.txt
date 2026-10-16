@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0455
+========================================================================
+Source Record ID: kcc_1105d96dc54c4653
+Idx: 1666658
+Crop: Onion
+State: TAMILNADU
+District: KARUR
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: RABI
+
+FARMER QUERY
+--------------------
+onuion foliar application
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for foliar spray for 19:19:19 50 gmtank

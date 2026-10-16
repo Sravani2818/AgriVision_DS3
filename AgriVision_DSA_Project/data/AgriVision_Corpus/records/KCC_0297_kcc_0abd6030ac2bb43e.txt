@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0297
+========================================================================
+Source Record ID: kcc_0abd6030ac2bb43e
+Idx: 1303297
+Crop: Sudan Grass
+State: UTTAR PRADESH
+District: GONDA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+sudan ghas ko pani lagane ke bad pasu ko de sakte hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+pani lagane ke bad pashu ko khila sakte hai

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0326
+========================================================================
+Source Record ID: kcc_0c23a308c7464ed4
+Idx: 261575
+Crop: Bail
+State: RAJASTHAN
+District: JHUNJHUNU
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+FLOWER DROPPING IN BAIL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF PLANOFIX 1ML  4 LITER WATER

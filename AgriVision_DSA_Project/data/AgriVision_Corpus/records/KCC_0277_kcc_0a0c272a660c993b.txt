@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0277
+========================================================================
+Source Record ID: kcc_0a0c272a660c993b
+Idx: 1933804
+Crop: Beet Root Garden BeetStock Beet
+State: MADHYA PRADESH
+District: DATIA
+Sector: HORTICULTURE
+Query Type: Field Preparation
+
+FARMER QUERY
+--------------------
+farmer want to know sowing time of beet root crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+The time of seeding depends on the species of beetroot generally sowing it from 15th October to 15th November Beetroot seed production is good in Himachal Pradesh The time of sowing for seed is April 15

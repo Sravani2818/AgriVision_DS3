@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0061
+========================================================================
+Source Record ID: kcc_025ea6cc133fb44a
+Idx: 1908051
+Crop: Coffee
+State: KARNATAKA
+District: MYSORE
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+asking for coffee nutrient management
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+1st year 6: 6: 6 NPK1524121524122nd and 3rd  year 8: 8: 8 NPK2030152030154th year 12: 12: 12 NPK304723347235th year onwards crop yielding less then 200 kg563656322432  Top dress: Apply recommended dose of fertilisers in 4 split doses  Use of lime:In coffee orchards usually soil will be alkaline natureTo over come this problem apply lime once in 2 - 3 years based on soil test results

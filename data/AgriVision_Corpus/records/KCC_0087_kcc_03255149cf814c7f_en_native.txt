@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0087
+========================================================================
+Source Record ID: kcc_03255149cf814c7f#en_native
+Idx: 2598992
+Crop: Tall Fescue Grass
+State: TAMILNADU
+District: COIMBATORE
+Sector: AGRICULTURE
+Query Type: Seeds
+
+FARMER QUERY
+--------------------
+Asking about seeds availability of kollukottai pull
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+:        : TNAU      [PHONE]

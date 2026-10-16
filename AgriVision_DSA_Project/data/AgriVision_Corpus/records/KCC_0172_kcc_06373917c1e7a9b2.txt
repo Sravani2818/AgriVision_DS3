@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0172
+========================================================================
+Source Record ID: kcc_06373917c1e7a9b2
+Idx: 3076337
+Crop: Nutmeg
+State: KERALA
+District: IDUKKI
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Asked about nutrient management in  nutmeg 20th year
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+The first split has to be applied in May-June The urea rock phosphate Muriate of Potash needed at this time is 543 gram 694 gram 835 gram respectively per plant The second dose has to apply in September-October and the dosage is 542 gram urea 694 gram rock phosphate 835 gram Muriate of Potash respectively per plant Apply 500g lime two weeks prior to fertilizer application

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0010
+========================================================================
+Source Record ID: kcc_0055c0d9282f1704
+Idx: 2229204
+Crop: Cowpea Vegetable
+State: MAHARASHTRA
+District: JALNA
+Sector: HORTICULTURE
+Query Type: Vegetative Propagation and Tissue Culture
+
+FARMER QUERY
+--------------------
+FARMER ASK ABOUT VARIETIES OF COWPEA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+VARIETIES OF COWPEAPUSA DO PHASALIPUSA BARSATIPUSA KOMAL

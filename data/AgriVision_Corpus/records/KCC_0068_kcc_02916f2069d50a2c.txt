@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0068
+========================================================================
+Source Record ID: kcc_02916f2069d50a2c
+Idx: 3599744
+Crop: Ivy Gourd
+State: WEST BENGAL
+District: WEST MEDINIPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Asking about control of leaf curling in ivy gourd
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY   SPIROMESIFEN 229 SC  1 ML  LIT OF WATER

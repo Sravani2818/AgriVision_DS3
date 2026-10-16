@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0477
+========================================================================
+Source Record ID: kcc_11ba60e0a9e6ebc3
+Idx: 1039632
+Crop: ARUM
+State: MAHARASHTRA
+District: JALNA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Attack of Fruit Borer
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Profex super 30 ml15 liter water

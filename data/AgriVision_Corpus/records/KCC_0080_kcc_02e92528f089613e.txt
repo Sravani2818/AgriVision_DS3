@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0080
+========================================================================
+Source Record ID: kcc_02e92528f089613e
+Idx: 3336540
+Crop: rajka bajri
+State: DELHI
+District: New Delhi Connaught Place
+Sector: AGRICULTURE
+Query Type: Agriculture Mechanization
+
+FARMER QUERY
+--------------------
+INSTITUTE OF HORTICULTURE TECHNOLOGY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Institute of Horticulture Technology 42A Knowledge Park-IIIGreater Noida-201310 NCR Delhi India elephone: [PHONE]Phone: [PHONE]Toll-Free: [PHONE]T

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0430
+========================================================================
+Source Record ID: kcc_0ffc609ff91a4846
+Idx: 1414122
+Crop: Yard Long Bean
+State: ASSAM
+District: SIVASAGAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+asking about the control of fruit sucking moth in yard long bean
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+suggest him to apply rogor 35 ec  2mllitre of water

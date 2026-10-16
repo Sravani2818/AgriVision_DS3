@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0076
+========================================================================
+Source Record ID: kcc_02c8819551df851a
+Idx: 3011883
+Crop: Mushroom
+State: JHARKAND
+District: GODDA
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+Query about seed purchase of mushroom
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+: [PHONE] [PHONE]: [PHONE]:     - 814 133  India: [EMAIL] [EMAIL]   : -2   :     : : [PHONE]: [EMAIL]   : -3   :     : : [PHONE]: [EMAIL]    : -4  :     : : [PHONE]: [EMAIL]   : -5   :       : : [PHONE]: [EMAIL]   : -6  :      : : [PHONE]: [EMAIL]

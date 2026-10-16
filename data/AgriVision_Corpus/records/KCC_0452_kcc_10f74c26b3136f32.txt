@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0452
+========================================================================
+Source Record ID: kcc_10f74c26b3136f32
+Idx: 2356397
+Crop: Betel Vine
+State: WEST BENGAL
+District: EAST MEDINIPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+CONTROL OF SCLEROTIUM ROLFSII IN BETEL VINE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY   CAPTAN 70  HEXACONAZOLE 5  75 WP   1 GM  LIT OF WATER

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0174
+========================================================================
+Source Record ID: kcc_06403cc2ed6c3f39
+Idx: 3821496
+Crop: Sagoan
+State: MAHARASHTRA
+District: JALNA
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+FARMER ASKED ABOUT SEED TREATMENT OF SAGOAN CROP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+2                             10 x 20

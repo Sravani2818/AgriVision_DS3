@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0401
+========================================================================
+Source Record ID: kcc_0f06bc87621b023f
+Idx: 945144
+Crop: Raya Indian Mustard
+State: JAMMU AND KASHMIR
+District: JAMMU
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+CONTROL OF  JASSIDS  IN MUSTURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY  IMADICLOPRID  10 ML IN  15 LITRE OF WATER  PER KANAL

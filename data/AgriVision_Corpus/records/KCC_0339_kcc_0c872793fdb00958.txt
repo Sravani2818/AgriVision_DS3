@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0339
+========================================================================
+Source Record ID: kcc_0c872793fdb00958
+Idx: 2020295
+Crop: Mochai lab-lab
+State: TAMILNADU
+District: SALEM
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+asking about Bean Aphids in Cowpea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Dusting  of cow dung ash and spraying of  clay suspension as asphyxiants in small area and low incidence of sucking insects

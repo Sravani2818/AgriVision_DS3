@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0179
+========================================================================
+Source Record ID: kcc_066e92419c917bc1
+Idx: 1702923
+Crop: Avacado
+State: UTTAR PRADESH
+District: ETAH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+karonda ka phaal khatta nahi ho raha hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+marco-nutrients 2gmliter paani me mila kar spray kare

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0396
+========================================================================
+Source Record ID: kcc_0ebdfa9df6075c5c
+Idx: 2344009
+Crop: Sandal Wood
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+chandan ke paudh chahiye
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Central Institute of Medicinal and Aromatic Plants lko ph[PHONE]

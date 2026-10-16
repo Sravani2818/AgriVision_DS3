@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0485
+========================================================================
+Source Record ID: kcc_1227c011e205997e
+Idx: 3680769
+Crop: Citrus
+State: WEST BENGAL
+District: NORTH 24 PARGANAS
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT TO LEAF MINOR IN CITRUS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY   DIAFENTHIURON 50 WP  1 GM   LIT OF WATER

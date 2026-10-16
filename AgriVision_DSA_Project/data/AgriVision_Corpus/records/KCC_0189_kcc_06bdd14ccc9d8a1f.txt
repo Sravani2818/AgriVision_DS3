@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0189
+========================================================================
+Source Record ID: kcc_06bdd14ccc9d8a1f
+Idx: 354413
+Crop: Toria
+State: UTTAR PRADESH
+District: SULTANPUR
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+toriya ki prajati
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+bhawani pt-303 type-9 type-36

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0070
+========================================================================
+Source Record ID: kcc_0294b6db0d196449
+Idx: 1380092
+Crop: Lettuce
+State: DELHI
+District: North Delhi Narela
+Sector: HORTICULTURE
+Query Type: Agriculture Mechanization
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME SOWING TIME OF LETTUCE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SOWING TIME OF LETTUCE OCTOBER TO NOVEMBER

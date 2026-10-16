@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0175
+========================================================================
+Source Record ID: kcc_0651a4eacd3aaef9
+Idx: 1610681
+Crop: Lucerne Alfalfa
+State: RAJASTHAN
+District: JAIPUR
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME NUTRIENT MANAGEMENT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF MULTIPLAX MICRONUTRIENT 4 ML PER LITER WATER

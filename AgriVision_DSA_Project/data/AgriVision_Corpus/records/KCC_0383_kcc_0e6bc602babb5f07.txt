@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0383
+========================================================================
+Source Record ID: kcc_0e6bc602babb5f07
+Idx: 3613544
+Crop: Pear
+State: PUNJAB
+District: FAZILKA
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+information regading fruit dropping in pear
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+pear         M-45 25

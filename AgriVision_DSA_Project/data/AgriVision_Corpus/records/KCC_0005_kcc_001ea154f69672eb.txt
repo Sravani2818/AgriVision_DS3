@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0005
+========================================================================
+Source Record ID: kcc_001ea154f69672eb
+Idx: 2111539
+Crop: Tulsi
+State: UTTAR PRADESH
+District: BARABANKI
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+tulsi ki kheti karna chahte hai kuch anudan hai ki nahi
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Ap apne jile ke jila krishi adhikari se sampark kare

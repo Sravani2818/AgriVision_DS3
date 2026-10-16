@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0219
+========================================================================
+Source Record ID: kcc_07c4e7662a047777
+Idx: 651817
+Crop: Sorghum JowarGreat Millet
+State: RAJASTHAN
+District: SAWAI MADHOPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME SEED RATE FODAR CROP IN SORGHUM
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+40KGHAC SORGHUM

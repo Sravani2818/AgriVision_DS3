@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0078
+========================================================================
+Source Record ID: kcc_02e1971b96e92a7b
+Idx: 421771
+Crop: Gerbera
+State: BIHAR
+District: BHAGALPUR
+Sector: HORTICULTURE
+Query Type: Agriculture Mechanization
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Fungal problem yellowing of leaves
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray sulphur  2 gram in 1 litre of water

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0205
+========================================================================
+Source Record ID: kcc_07815a00de68ebeb
+Idx: 1763700
+Crop: fodder maize
+State: UTTAR PRADESH
+District: UNNAO
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+MAKKA ME KEET CONTROL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY MONOCROTOPHOS36EC2MLLITWATER

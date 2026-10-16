@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0400
+========================================================================
+Source Record ID: kcc_0efe883c2c592001
+Idx: 3286950
+Crop: Curry Leaf
+State: ANDHRA PRADESH
+District: PRAKASAM
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+FARMER ASKED QUERY ON WEED MANAGEMENT IN CURRY LEAF
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO MANUAL WEEDIND

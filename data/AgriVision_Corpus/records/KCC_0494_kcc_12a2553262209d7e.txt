@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0494
+========================================================================
+Source Record ID: kcc_12a2553262209d7e
+Idx: 3182633
+Crop: Dolichos Bean
+State: UTTAR PRADESH
+District: LALITPUR
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+ASKED ABOUT NUTRIENT MANAGEMENT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+4 ML

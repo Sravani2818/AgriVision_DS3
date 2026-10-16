@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0434
+========================================================================
+Source Record ID: kcc_100495e85f8233b8
+Idx: 868615
+Crop: Cabbage
+State: ASSAM
+District: DHEMAJI
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+ASKING ABOUT THE TREATMENT OF SEEDS OF CABBAGE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ADVISED HIM TO TREAT THE SEEDS WITH CAPTAN OR CAPTAF  2 GMLITRE OF WATER

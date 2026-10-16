@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0114
+========================================================================
+Source Record ID: kcc_0432f8c0777623e3
+Idx: 2851927
+Crop: Sandal Wood
+State: MAHARASHTRA
+District: NANDED
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+Asked about cultivation sandal wood
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+- 02358 - 282411282[PHONE]

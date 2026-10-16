@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0461
+========================================================================
+Source Record ID: kcc_11415e204e165b35
+Idx: 3225891
+Crop: Indian rapeseed and mustard yellow sarson
+State: ASSAM
+District: NALBARI
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+REGARDING ENHANCED PRODUCTION IN RAPESEED
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY GREEN HARVEST  25GM10 LITRE WATER

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0304
+========================================================================
+Source Record ID: kcc_0b4d82e9ce7fc2c2
+Idx: 720880
+Crop: Karan Rai
+State: UTTAR PRADESH
+District: FATEHPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+mausam ki jankari chahiy
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+prapar jankari di gai

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0171
+========================================================================
+Source Record ID: kcc_0636dfac90ee4dff
+Idx: 1929884
+Crop: Fenugreek
+State: MADHYA PRADESH
+District: RATLAM
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+Farmer needs information regarding nutrient management in fenugreek
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for foliar application of IFFCO 0:52:34 water soluble fertilizer  100 gmpump or N: P: K 0:52:34 1 kg at per Acer

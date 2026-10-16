@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0291
+========================================================================
+Source Record ID: kcc_0a93cb1975ce1125
+Idx: 47874
+Crop: Onion
+State: HIMACHAL PRADESH
+District: UNA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+some spot in onion leafsome plants are damaghow it control
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Mencozeb 25gram per liter water mix after 10-15 days reapeet this spray also

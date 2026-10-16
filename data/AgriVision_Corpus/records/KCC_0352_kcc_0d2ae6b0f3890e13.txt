@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0352
+========================================================================
+Source Record ID: kcc_0d2ae6b0f3890e13
+Idx: 3621378
+Crop: Other
+State: BIHAR
+District: KHAGARIA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Query about insect mangement in fodder grass
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+4G GR 8

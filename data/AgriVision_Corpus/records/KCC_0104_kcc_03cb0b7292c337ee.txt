@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0104
+========================================================================
+Source Record ID: kcc_03cb0b7292c337ee
+Idx: 2957615
+Crop: Coffee
+State: KARNATAKA
+District: HASSAN
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Asked about plant protectionIN COFFEE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested to spray  KAVACH or  CHLOROTHALONIL 05g per lit waterSuggested to spray Propineb Antracol WP 70 with zinc 05g per liter of water

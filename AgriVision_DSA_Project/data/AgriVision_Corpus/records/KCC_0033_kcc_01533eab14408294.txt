@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0033
+========================================================================
+Source Record ID: kcc_01533eab14408294
+Idx: 958289
+Crop: Cardamom
+State: KERALA
+District: IDUKKI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Cardamom-shoot borer
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for the sparying of quinalphos 2 m in one litre of water

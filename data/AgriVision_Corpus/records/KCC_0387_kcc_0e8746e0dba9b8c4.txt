@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0387
+========================================================================
+Source Record ID: kcc_0e8746e0dba9b8c4
+Idx: 785478
+Crop: Honey plant
+State: UTTAR PRADESH
+District: BALRAMPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+apiculture ki jankri
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+jila krishi vikesh adhikari say samperk karne

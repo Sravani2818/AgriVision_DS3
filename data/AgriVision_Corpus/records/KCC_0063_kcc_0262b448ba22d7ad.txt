@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0063
+========================================================================
+Source Record ID: kcc_0262b448ba22d7ad
+Idx: 1964131
+Crop: Sorghum JowarGreat Millet
+State: MAHARASHTRA
+District: YEVATMAL
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+Season: RABI
+
+FARMER QUERY
+--------------------
+ASKING ABOUT JOWER SPRYING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Use Thimet 4 kgacrediethyl S- phosphorodithioatemvac

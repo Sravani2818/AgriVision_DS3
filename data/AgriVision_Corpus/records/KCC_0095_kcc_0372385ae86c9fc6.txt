@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0095
+========================================================================
+Source Record ID: kcc_0372385ae86c9fc6
+Idx: 1479105
+Crop: Nutmeg
+State: KERALA
+District: ERNAKULAM
+Sector: HORTICULTURE
+Query Type: Field Preparation
+
+FARMER QUERY
+--------------------
+-Indian Institute of Spices Research
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+-Indian Institute of Spices ResearchMarikunnu POKozhikode Calicut Kerala  Ph: 0091-495-2730704

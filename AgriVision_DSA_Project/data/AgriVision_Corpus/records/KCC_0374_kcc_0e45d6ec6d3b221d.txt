@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0374
+========================================================================
+Source Record ID: kcc_0e45d6ec6d3b221d
+Idx: 1277423
+Crop: Lettuce
+State: UTTAR PRADESH
+District: AZAMGARH
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+sowing time of Elephant yam
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+suran ki paudh April  May me lagaai jaati hai

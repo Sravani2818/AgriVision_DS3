@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0194
+========================================================================
+Source Record ID: kcc_06f74e418e6a6f9b
+Idx: 2148078
+Crop: Dhaincha
+State: TELANGANA
+District: WARANGAL RURAL
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+dhaincha seed rate information
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+dhaincha seed rate information 12-15 kgacre

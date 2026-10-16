@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0284
+========================================================================
+Source Record ID: kcc_0a607785b795d44a
+Idx: 2122081
+Crop: lobia
+State: UTTAR PRADESH
+District: AMBEDKAR NAGAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+lobia me kide lage hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray -  Triazophos 40 EC  25 ml dwa  litter pani

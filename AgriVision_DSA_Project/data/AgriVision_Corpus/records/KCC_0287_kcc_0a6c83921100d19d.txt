@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0287
+========================================================================
+Source Record ID: kcc_0a6c83921100d19d
+Idx: 2023042
+Crop: Broad Bean
+State: TAMILNADU
+District: DHARMAPURI
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Asking about Beans sowing season
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for Beans sowing season is October- November

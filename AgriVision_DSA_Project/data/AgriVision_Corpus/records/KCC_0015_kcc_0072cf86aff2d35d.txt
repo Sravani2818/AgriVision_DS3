@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0015
+========================================================================
+Source Record ID: kcc_0072cf86aff2d35d
+Idx: 201293
+Crop: Sugar Beet
+State: MAHARASHTRA
+District: SOLAPUR
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+weather
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+2338232723662355 2357236623402366235723522339 234623662357236[PHONE] 235823252381235123402366 231[PHONE]

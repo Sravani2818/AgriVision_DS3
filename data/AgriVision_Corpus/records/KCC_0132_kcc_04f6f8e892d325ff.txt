@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0132
+========================================================================
+Source Record ID: kcc_04f6f8e892d325ff
+Idx: 1203642
+Crop: Sugarcane Noble Cane
+State: UTTAR PRADESH
+District: MEERUT
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+ganne ke gob sukh rahe hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+apply phorat 10 kgacre or spray coloropairiphos 2mlliter water

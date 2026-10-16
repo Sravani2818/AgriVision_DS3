@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0245
+========================================================================
+Source Record ID: kcc_08bae3592ffa54a9
+Idx: 537526
+Crop: Jute
+State: MAHARASHTRA
+District: JALGAON
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+Disease Attack -
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Bavistine 30gm15lit of Water234823662357236823602381233523682344 302327238123522373235015 235423[PHONE] 2346236623392381235123662350234323[PHONE] 232823[PHONE] 234723572366235223392368 2325235223[PHONE]

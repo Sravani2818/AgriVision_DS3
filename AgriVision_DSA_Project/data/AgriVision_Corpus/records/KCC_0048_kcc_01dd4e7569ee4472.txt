@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0048
+========================================================================
+Source Record ID: kcc_01dd4e7569ee4472
+Idx: 289365
+Crop: Teak
+State: TAMILNADU
+District: PUDUKKOTTAI
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+teak fertilizer
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+apply 1 year plant urea 50gmsp-50gm potash50gmtree

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0220
+========================================================================
+Source Record ID: kcc_07d195cfaacfe98d
+Idx: 1621094
+Crop: Onion
+State: RAJASTHAN
+District: NAGAUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT DISEASE CONTORL IN ONION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Disease Leaf spot  Leaf spot disease can be controlled by spraying Mancozeb 2 glit or Copper oxychloride 2 glit Add 1 ml of Teepol to 1 lit of the spray fluid

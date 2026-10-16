@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0042
+========================================================================
+Source Record ID: kcc_0191ebd23224a546
+Idx: 467487
+Crop: Kiwi Fruit
+State: HIMACHAL PRADESH
+District: SHIMLA
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+IMPROVED VERITIES OF KIWI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+IMPROVED VERITIES OF KIWI - ALISON ABEET HEWARD  MONTY

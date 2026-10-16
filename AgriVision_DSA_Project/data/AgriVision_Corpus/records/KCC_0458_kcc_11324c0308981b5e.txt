@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0458
+========================================================================
+Source Record ID: kcc_11324c0308981b5e
+Idx: 1911869
+Crop: Beans
+State: KARNATAKA
+District: CHAMARAJANAGAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT BEANS LEAF MINOR MANAGEMENT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+BEANS LEAF MINOR MANAGEMENT  SPRAY ACEPHATE 1GML OF WATER

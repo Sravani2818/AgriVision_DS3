@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0084
+========================================================================
+Source Record ID: kcc_03182289b0985dd7
+Idx: 1778786
+Crop: Sugarcane Noble Cane
+State: UTTAR PRADESH
+District: FAIZABAD
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+Plant Growth  Regulators
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Aminoacids 16 10 - 8-10 kiloacre ki dar se prayog kare

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0386
+========================================================================
+Source Record ID: kcc_0e75dbadce5ed0ed
+Idx: 1634228
+Crop: Jasmine
+State: TAMILNADU
+District: KANCHEEPURAM
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+jasmine flower increase
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for spray potassium nitrate 5 g  lit of water

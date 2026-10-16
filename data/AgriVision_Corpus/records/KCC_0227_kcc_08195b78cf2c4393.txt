@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0227
+========================================================================
+Source Record ID: kcc_08195b78cf2c4393
+Idx: 237867
+Crop: African Sarson
+State: PUNJAB
+District: SHAHID BHAGAT SINGH NAGAR Nawanshahr
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+information regarding to control of semilooper in barseem
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray of spinosed  48 SC 60 ml100-125 ltr water acre in barseem

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0279
+========================================================================
+Source Record ID: kcc_0a2b0fade684de62
+Idx: 242417
+Crop: Cumin
+State: RAJASTHAN
+District: BARMER
+Sector: HORTICULTURE
+Query Type: Field Preparation
+
+FARMER QUERY
+--------------------
+WEED CONTROL IN jeera
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PENDIMITHELINE 600MLBIGHA

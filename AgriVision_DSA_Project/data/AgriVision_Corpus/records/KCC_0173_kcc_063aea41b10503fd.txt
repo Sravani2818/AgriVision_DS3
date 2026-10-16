@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0173
+========================================================================
+Source Record ID: kcc_063aea41b10503fd
+Idx: 599337
+Crop: Runner Bean
+State: ODISHA
+District: NAWORANGPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ROOT ROT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SOIL DRANCHE MANCOZEM 2GM1LIT WATER TO CONTROL ROOT ROT

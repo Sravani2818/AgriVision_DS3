@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0292
+========================================================================
+Source Record ID: kcc_0a9445ed5a7a738f
+Idx: 696189
+Crop: Oats
+State: UTTAR PRADESH
+District: ALIGARH
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: RABI
+
+FARMER QUERY
+--------------------
+phone
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+[PHONE]

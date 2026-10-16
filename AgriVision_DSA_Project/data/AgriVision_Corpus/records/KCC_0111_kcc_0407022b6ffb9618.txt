@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0111
+========================================================================
+Source Record ID: kcc_0407022b6ffb9618
+Idx: 408279
+Crop: Ridge Gourd
+State: ASSAM
+District: NAGAON
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+PROBLEM OF FRUIT FLY IN RIDGE GOURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ADVICED TO APPLY ROGOR  2 ML PER LITER OF WATER

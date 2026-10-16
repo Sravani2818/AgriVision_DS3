@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0186
+========================================================================
+Source Record ID: kcc_06afb0cefe1b9a52
+Idx: 1989405
+Crop: Lentil Masur
+State: PUNJAB
+District: AMRITSAR
+Sector: AGRICULTURE
+Query Type: Varieties
+
+FARMER QUERY
+--------------------
+INFORMATION REGARDING FOR THE SUITABLE VARIETIES OF BLACK GRAMMAH
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+THE SUITABLE VARIETIES OF BLACK GRAMMAH-MAH-1008MAH-218

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0349
+========================================================================
+Source Record ID: kcc_0d11e7b9797c8238
+Idx: 1637523
+Crop: AmaranthusGrain Amaranthus
+State: TAMILNADU
+District: VELLORE
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+panchakavya application method
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for spray 150 ml10 lit of water

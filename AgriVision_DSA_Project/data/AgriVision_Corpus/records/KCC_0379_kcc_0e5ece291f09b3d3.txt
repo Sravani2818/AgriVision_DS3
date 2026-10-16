@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0379
+========================================================================
+Source Record ID: kcc_0e5ece291f09b3d3
+Idx: 1343957
+Crop: Colocasia Arvi Arbi
+State: UTTAR PRADESH
+District: AMETHI  Shahu Ji Maharaj
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+disease problem in Arvi
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Tricyclazole 75 WP  160 gmacre

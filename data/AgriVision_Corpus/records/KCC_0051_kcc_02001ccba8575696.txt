@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0051
+========================================================================
+Source Record ID: kcc_02001ccba8575696
+Idx: 299969
+Crop: Cymbidium
+State: UTTAR PRADESH
+District: SAHARANPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+genda ki jankari
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+apspray of- npk 18:18:18-500gmacre

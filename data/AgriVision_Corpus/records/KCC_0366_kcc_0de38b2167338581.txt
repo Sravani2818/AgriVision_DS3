@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0366
+========================================================================
+Source Record ID: kcc_0de38b2167338581
+Idx: 1622280
+Crop: Fennel
+State: RAJASTHAN
+District: NAGAUR
+Sector: HORTICULTURE
+Query Type: Vegetative Propagation and Tissue Culture
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME VARITEY OF FENNEL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SAUNF VARIETY - RF101 RF143

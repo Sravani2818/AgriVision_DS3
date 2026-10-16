@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0341
+========================================================================
+Source Record ID: kcc_0ccd2b1c703e848f
+Idx: 1851931
+Crop: Mesta
+State: DELHI
+District: South West Delhi Dwarka
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME WEATHER INFORMATION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NO RAIN POSSIBILITY IN NEXT 5 DAYS IN YOUR DISTRICT

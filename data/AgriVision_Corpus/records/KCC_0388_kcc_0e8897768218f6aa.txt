@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0388
+========================================================================
+Source Record ID: kcc_0e8897768218f6aa
+Idx: 957992
+Crop: Nutmeg
+State: KERALA
+District: KOTTAYAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+fungus attack
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+apply bavistin 1 gramlitre

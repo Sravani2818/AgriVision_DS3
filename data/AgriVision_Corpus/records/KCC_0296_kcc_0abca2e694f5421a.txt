@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0296
+========================================================================
+Source Record ID: kcc_0abca2e694f5421a
+Idx: 1941096
+Crop: Bell Pepper
+State: MAHARASHTRA
+District: JALGAON
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+Growth Sprayer
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+00 52 34 60 gm  microla 30 ml 15 lit water

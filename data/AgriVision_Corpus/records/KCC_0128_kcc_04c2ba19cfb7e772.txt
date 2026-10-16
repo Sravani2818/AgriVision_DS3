@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0128
+========================================================================
+Source Record ID: kcc_04c2ba19cfb7e772
+Idx: 2387121
+Crop: Baby Corn
+State: MAHARASHTRA
+District: BEED
+Sector: HORTICULTURE
+Query Type: Vegetative Propagation and Tissue Culture
+
+FARMER QUERY
+--------------------
+BLIGHT ATTACK
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Aliette 30 gm15 Liter of WaterFosety-AL 80 WP BAYER CROP SCIENCE

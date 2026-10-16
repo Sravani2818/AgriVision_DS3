@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0047
+========================================================================
+Source Record ID: kcc_01c119c3afef1f0b
+Idx: 2763412
+Crop: Chrysanthemum
+State: ANDHRA PRADESH
+District: CHITTOOR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+APHIDS MANAGEMENT IN CHRYSANTHEMUM CROP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY DIMETHOATE  ROGORE 400ML 200 LITRES OF WATER ACRE    400     200

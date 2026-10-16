@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0359
+========================================================================
+Source Record ID: kcc_0d8f99ad73a0676a
+Idx: 66059
+Crop: Carrot
+State: RAJASTHAN
+District: JODHPUR
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+PROLBEM OF YELLOWING IN CARROT CROP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+USE--UREA  25KG POTASH 40KGHEC

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0429
+========================================================================
+Source Record ID: kcc_0ff645fd71a544c0
+Idx: 70601
+Crop: Saffron
+State: TAMILNADU
+District: KRISHNAGIRI
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+tumeric deficiency  top dressing fertilizer
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+foliar spray  ferrous sulphate 150 gm borax150gmzinc150gmurea 150gm mix with  100 lit of water  apply urea 25kg sp- 75kg potash 25kgac

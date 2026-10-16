@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0079
+========================================================================
+Source Record ID: kcc_02e59b79d6dd0d06
+Idx: 1730641
+Crop: Sudan Grass
+State: UTTAR PRADESH
+District: ALLAHABAD
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+Sudan chari gidar lagi hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Sudan chari me gidar ke liye cypermethreen 5  prophenophaas 40 EC ki 20ml dawaa prati liter paani ke saath chhidkaw kren

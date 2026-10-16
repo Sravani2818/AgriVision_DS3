@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0213
+========================================================================
+Source Record ID: kcc_07b6e0977142a382#en_code_mixed
+Idx: 828819
+Crop: Tall Fescue Grass
+State: ANDHRA PRADESH
+District: VIZIANAGARM
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+weather report
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Today rain is not likely to occur in your area The general level of air blow

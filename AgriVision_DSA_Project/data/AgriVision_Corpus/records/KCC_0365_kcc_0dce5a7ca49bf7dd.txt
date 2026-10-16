@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0365
+========================================================================
+Source Record ID: kcc_0dce5a7ca49bf7dd
+Idx: 3135582
+Crop: Aloe Vera
+State: WEST BENGAL
+District: MURSHIDABAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKED ABOUT THE DOSE OF  PROPINEB 70 WP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+THE DOSE OF  PROPINEB 70 WP  IS  3 GM  LIT OF WATER

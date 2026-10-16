@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0110
+========================================================================
+Source Record ID: kcc_03fb6d349461ec26
+Idx: 194302
+Crop: Anthurium
+State: MAHARASHTRA
+District: AHMADNAGAR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+ASter flower harvesting period
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+10-12 weeks

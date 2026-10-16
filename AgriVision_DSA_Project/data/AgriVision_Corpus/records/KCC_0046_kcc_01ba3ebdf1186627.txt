@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0046
+========================================================================
+Source Record ID: kcc_01ba3ebdf1186627
+Idx: 1915109
+Crop: Rubber
+State: KERALA
+District: IDUKKI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+FUNGAL ATTACK IN RUBBER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO AVOID FUNDICIDE SPRAYING AT THE TME OF RAINIG

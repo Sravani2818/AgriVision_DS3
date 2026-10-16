@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0160
+========================================================================
+Source Record ID: kcc_05c9dbbc6ca55c88
+Idx: 3079987
+Crop: Apricot
+State: PUNJAB
+District: AMRITSAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+--Information regarding control of fruit drop in Citrus
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+1250   27    5  24-D      500   25   5  24-D  500   50   5  24-D   500

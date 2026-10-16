@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0054
+========================================================================
+Source Record ID: kcc_02202d9c5c45ef70
+Idx: 352727
+Crop: Brown Sarson
+State: UTTAR PRADESH
+District: BAHRAICH
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+sarso kli veriety
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+type30krantivaruna luxmi

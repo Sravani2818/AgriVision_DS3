@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0034
+========================================================================
+Source Record ID: kcc_015a9167b1abe3ea
+Idx: 3441862
+Crop: FingerMillet  RagiMandika
+State: ODISHA
+District: SUNDARGARH
+Sector: AGRICULTURE
+Query Type: Weed Management
+
+FARMER QUERY
+--------------------
+Pre emergent weed management in paddy
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended to spray Pendimethalin 30 EC  1320 ml per  200 litre of water per 1 acre of land

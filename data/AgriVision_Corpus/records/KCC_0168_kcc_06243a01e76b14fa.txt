@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0168
+========================================================================
+Source Record ID: kcc_06243a01e76b14fa
+Idx: 2440651
+Crop: Kodo Millet KodaraVaragu
+State: GUJARAT
+District: BANAS KANTHA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Farmer asked Aphid problem in crop kodo millet
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+EC 30

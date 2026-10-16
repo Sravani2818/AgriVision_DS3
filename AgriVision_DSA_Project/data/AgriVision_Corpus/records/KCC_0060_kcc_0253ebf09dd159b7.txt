@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0060
+========================================================================
+Source Record ID: kcc_0253ebf09dd159b7
+Idx: 311481
+Crop: Pumpkin
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+NEEL GAY SE KAISE PHASAL KO BACHAYA JAY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+10KG MANTHALALMIRCHLAHSUN PANIKE SATH MILAKR SPARYE KARE

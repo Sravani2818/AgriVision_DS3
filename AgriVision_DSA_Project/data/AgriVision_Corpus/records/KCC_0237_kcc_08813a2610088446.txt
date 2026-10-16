@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0237
+========================================================================
+Source Record ID: kcc_08813a2610088446
+Idx: 677686
+Crop: Tapioca Cassava
+State: TAMILNADU
+District: NAMAKKAL
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+Iron deficiencyin tapioca
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray 3 to 4 times Ferrous sulphate 25 glit on

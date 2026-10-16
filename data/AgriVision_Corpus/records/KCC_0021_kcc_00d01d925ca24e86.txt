@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0021
+========================================================================
+Source Record ID: kcc_00d01d925ca24e86
+Idx: 83450
+Crop: African Sarson
+State: UTTARAKHAND
+District: HARIDWAR
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+barseam me ab kya dale
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+zyme ko8 se10 kg   acer sinchai ke bad dale

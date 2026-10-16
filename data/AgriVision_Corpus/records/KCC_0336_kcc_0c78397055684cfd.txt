@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0336
+========================================================================
+Source Record ID: kcc_0c78397055684cfd
+Idx: 2433291
+Crop: Brown Sarson
+State: BIHAR
+District: NALANDA
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+NOT GETTING VOICE FROM FARMER
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--                 I        I

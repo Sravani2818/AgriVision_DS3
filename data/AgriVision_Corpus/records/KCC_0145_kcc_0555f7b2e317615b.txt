@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0145
+========================================================================
+Source Record ID: kcc_0555f7b2e317615b
+Idx: 2957502
+Crop: Safflower kusumkardi
+State: KARNATAKA
+District: BIDAR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Asked about plant protection in   safllower
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested to spray acetamaprid  05 gram per 1 liter of water

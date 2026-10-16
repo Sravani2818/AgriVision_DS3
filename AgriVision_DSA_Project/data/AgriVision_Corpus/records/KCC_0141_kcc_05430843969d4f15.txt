@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0141
+========================================================================
+Source Record ID: kcc_05430843969d4f15
+Idx: 3806470
+Crop: Anthurium
+State: UTTARAKHAND
+District: NAINITAL
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Information about fertilizer management in Flowers crop for better growth
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NPK 18:18:18  5       2

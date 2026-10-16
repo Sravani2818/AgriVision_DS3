@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0077
+========================================================================
+Source Record ID: kcc_02cb192dfb162a34
+Idx: 2701466
+Crop: Wheat
+State: UTTAR PRADESH
+District: HATHRAS
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about Leaf folder control in Wheat crops
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+178 SL 100 ml    180

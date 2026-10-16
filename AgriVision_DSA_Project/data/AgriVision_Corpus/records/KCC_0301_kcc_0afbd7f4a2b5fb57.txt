@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0301
+========================================================================
+Source Record ID: kcc_0afbd7f4a2b5fb57
+Idx: 2430320
+Crop: Gerbera
+State: ASSAM
+District: SONITPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT FUNGAL INFECTION
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY SAAF  2GML WATER  TWO SPRAY AT 4 DAYS INTERVAL

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0242
+========================================================================
+Source Record ID: kcc_08b056ac4b5258be
+Idx: 1936407
+Crop: Citrus
+State: MADHYA PRADESH
+District: KATNI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+farmer want to know information about  How to control caterpillars in citrus crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray of  deltamethrin20 mldachlorvas nuvan 20 ml  16litre water

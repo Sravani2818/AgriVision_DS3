@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0457
+========================================================================
+Source Record ID: kcc_11255a007f67d56a
+Idx: 1882451
+Crop: Melon
+State: GUJARAT
+District: SURENDRANAGAR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+ASK ABOUT WATERMELON
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+WatermelonAsai pameto Sugarbaby ArkaJyoti DurgapurFeb-March June-July3 kgha2 X 1 meterBASAL DOSE - 12:61:00 200KG  MOP 100KG  SSP 650KG              AFTER  20 DAYS UREA 100 KG   AFTER  45 DAYS UREA 100 KG 8 -10  IRRIGATION REQUIRED60 days onward10000-12000 ha

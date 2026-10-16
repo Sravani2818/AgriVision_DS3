@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0267
+========================================================================
+Source Record ID: kcc_09a219c7310ac667
+Idx: 3896241
+Crop: Eculeptous
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+information about planting time and planting distance of eucalyptus plants
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+15 x 15      1700

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0305
+========================================================================
+Source Record ID: kcc_0b5203d36f6e3571
+Idx: 1386897
+Crop: Anjan Grass
+State: ANDHRA PRADESH
+District: EAST GODAVARI
+Sector: AGRICULTURE
+Query Type: Seeds
+Season: RABI
+
+FARMER QUERY
+--------------------
+varieties of fodder crops
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+FORAGE CROPS-[PHONE]

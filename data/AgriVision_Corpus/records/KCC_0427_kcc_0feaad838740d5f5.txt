@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0427
+========================================================================
+Source Record ID: kcc_0feaad838740d5f5
+Idx: 1562678
+Crop: Moth Bean kidney bean deww gram
+State: MAHARASHTRA
+District: HINGOLI
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Fungicides
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Drenching Bavistine 30gm  Humic Acid 30ml15 Lit of Water

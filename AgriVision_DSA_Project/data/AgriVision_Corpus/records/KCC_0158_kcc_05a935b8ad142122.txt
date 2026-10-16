@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0158
+========================================================================
+Source Record ID: kcc_05a935b8ad142122
+Idx: 3203789
+Crop: Cowpea Vegetable
+State: ODISHA
+District: GANJAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Growth hormone for cowpea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended to spray Vipul booster  200 ml per 200 litre of water per 1 acre of land  as growth hormone for cowpea

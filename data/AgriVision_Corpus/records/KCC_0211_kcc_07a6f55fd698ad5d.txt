@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0211
+========================================================================
+Source Record ID: kcc_07a6f55fd698ad5d
+Idx: 3839598
+Crop: Cabbage
+State: WEST BENGAL
+District: Cooch BIHAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+ASKING ABOUT CONTROL OF CATERPILLER IN CABBAGE CROP
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY NOVALURON 525  INDOXACARB 45 SC  15 ML  LITER OF WATER

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0384
+========================================================================
+Source Record ID: kcc_0e6c35459bc9ebb4
+Idx: 759953
+Crop: Sweet Cherry
+State: UTTAR PRADESH
+District: FAIZABAD
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+POME GRANT ME FAL NAHI BANTA HAI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+MICRO NUTRIENT KA PRAYOG KARE

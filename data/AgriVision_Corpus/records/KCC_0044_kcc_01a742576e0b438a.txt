@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0044
+========================================================================
+Source Record ID: kcc_01a742576e0b438a
+Idx: 32618
+Crop: Saffron
+State: MAHARASHTRA
+District: PARBHANI
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+FERT DOSE FOR TURMERIC
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+200 KG N  100 KG P  100 KG K PER HECTARE

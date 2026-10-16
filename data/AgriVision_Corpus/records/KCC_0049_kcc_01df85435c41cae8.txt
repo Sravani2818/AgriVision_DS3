@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0049
+========================================================================
+Source Record ID: kcc_01df85435c41cae8
+Idx: 1877048
+Crop: Triticale
+State: BIHAR
+District: BUXAR
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+WILT PROBLEM IN LENTIL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+USE TRICHODERMA 1KG100 KG FYM FOR 1 HECTARE

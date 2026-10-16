@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0155
+========================================================================
+Source Record ID: kcc_05963cdc432bd7b9
+Idx: 2330665
+Crop: Sugarcane Noble Cane
+State: UTTAR PRADESH
+District: KHERI
+Sector: AGRICULTURE
+Query Type: Weed Management
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+ganne ke khet me bhada ho jata hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+bubai se paihle glychoset 25 ml prati liter paanee ka sprey kare

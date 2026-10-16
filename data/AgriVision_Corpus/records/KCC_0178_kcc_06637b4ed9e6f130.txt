@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0178
+========================================================================
+Source Record ID: kcc_06637b4ed9e6f130
+Idx: 2225865
+Crop: Onion
+State: MAHARASHTRA
+District: SOLAPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+asking information about seed treatment of onion
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+dipping seedling in bavistin then grow

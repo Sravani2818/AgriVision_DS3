@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0147
+========================================================================
+Source Record ID: kcc_0563c2958fa6efa3
+Idx: 839334
+Crop: Chapan Kaddu
+State: ANDHRA PRADESH
+District: PRAKASAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+chilli thrips damage
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended to use rogar 2 ml  liter water

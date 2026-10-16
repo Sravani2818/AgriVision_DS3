@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0330
+========================================================================
+Source Record ID: kcc_0c46b7722a011700
+Idx: 2486120
+Crop: Coconut
+State: KERALA
+District: THRISSUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Nutrient management and earthing up in coconut
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested to apply 1 kg lime  dolomiteAfter 2 weeks apply Urea-500 g Rock phosphaterajphos-750 g and Muriate of potash-1 kg per mature coconut palmafter 6 months apply  Urea-500 g Rock phosphaterajphos-750 g and Muriate of potash-1 kg per mature coconut palmafter fertilizer application apply some soil over it

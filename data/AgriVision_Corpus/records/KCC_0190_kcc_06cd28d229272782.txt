@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0190
+========================================================================
+Source Record ID: kcc_06cd28d229272782
+Idx: 1401462
+Crop: Bay Leaf
+State: ANDHRA PRADESH
+District: ANANTPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+curry leaf irrigation
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+curry leaf irrigation :Immediately after planting the pits are irrigated On the third day the second irrigation is given and then the irrigation is given once in a week

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0454
+========================================================================
+Source Record ID: kcc_1102e42468d4a296
+Idx: 1244934
+Crop: Jack Fruit
+State: UTTAR PRADESH
+District: ALLAHABAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+fal sad rha hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Monocrotophos 36 SL 2 ml  liter pani ka spray kre

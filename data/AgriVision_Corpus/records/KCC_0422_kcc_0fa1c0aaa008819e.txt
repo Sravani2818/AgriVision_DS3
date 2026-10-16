@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0422
+========================================================================
+Source Record ID: kcc_0fa1c0aaa008819e
+Idx: 2064209
+Crop: Chinese Cabbage
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+fungus control of cabbage
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Carbendazim 12 Mancozeb 63 WP 25 gramliterhumic acid 3mlliter pani me ghol kar spre kare

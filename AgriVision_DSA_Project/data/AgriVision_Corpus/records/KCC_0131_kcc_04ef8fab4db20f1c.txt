@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0131
+========================================================================
+Source Record ID: kcc_04ef8fab4db20f1c
+Idx: 80603
+Crop: Curry Leaf
+State: UTTAR PRADESH
+District: KUSHI NAGAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+tori ke patto par keet lage he
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+daimethoete 30ec 15 mlli water spray

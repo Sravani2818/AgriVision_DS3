@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0436
+========================================================================
+Source Record ID: kcc_1016cff333f68062
+Idx: 1106228
+Crop: Other
+State: PUNJAB
+District: GURDASPUR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+INFORMATION REGARDING FOR THE CONTROL OF LEAF FOLDER IN SORGHUMJWAR
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+FOR THE CONTROL OF LEAF FOLDER IN SORGHUMJWARPLS SPRAY Q350ML TRIZOPHAS MIXWITH 150 LITRE WATER

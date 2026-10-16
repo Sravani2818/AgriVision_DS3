@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0217
+========================================================================
+Source Record ID: kcc_07b71ff8b6e209e8
+Idx: 3045705
+Crop: Vanilla
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Asking about vannila saplings availability
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+:           [PHONE]   [PHONE]

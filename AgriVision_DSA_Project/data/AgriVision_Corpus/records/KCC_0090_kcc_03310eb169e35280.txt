@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0090
+========================================================================
+Source Record ID: kcc_03310eb169e35280
+Idx: 1750831
+Crop: Lentil Masur
+State: UTTAR PRADESH
+District: GHAZIPUR
+Sector: AGRICULTURE
+Query Type: Weed Management
+Season: RABI
+
+FARMER QUERY
+--------------------
+Lentil me weed control
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+aap kisaan bhai nicaai gudaai kare

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0261
+========================================================================
+Source Record ID: kcc_0947ff6b407f327d
+Idx: 629526
+Crop: Indian Clover Senji Sweet Clover
+State: RAJASTHAN
+District: CHITTAURGARH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME CONTROL OF WEED IN ISEBGOL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF ISOPROTURAN 600 GM aiPER HA 1-2 DAYS OR 15 DAYS AFTER SOWING

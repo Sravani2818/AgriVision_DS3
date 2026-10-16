@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0165
+========================================================================
+Source Record ID: kcc_06141b6cec1e5820
+Idx: 2854421
+Crop: Bengal Gram GramChick PeaKabuliChana
+State: MAHARASHTRA
+District: BULDANA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+farmer asked about sowing method of gram crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+:  -         X            -

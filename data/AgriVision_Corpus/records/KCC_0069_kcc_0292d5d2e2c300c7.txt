@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0069
+========================================================================
+Source Record ID: kcc_0292d5d2e2c300c7
+Idx: 999570
+Crop: Chinese Cabbage
+State: MADHYA PRADESH
+District: NEEMUCH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+FARMER WAT TO AAD MY NO IN MANDI RATE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+your mobile no mandi rate start now after some time

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0270
+========================================================================
+Source Record ID: kcc_09c4eb97f49a3918
+Idx: 1541640
+Crop: Pigeon pea red gramarhartur
+State: MAHARASHTRA
+District: AURANGABAD
+Sector: AGRICULTURE
+Query Type: Bio-Pesticides and Bio-Fertilizers
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+FUNGS ATTACK OF TUR
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY BAVISTIN 30 GM15 LITER WATER

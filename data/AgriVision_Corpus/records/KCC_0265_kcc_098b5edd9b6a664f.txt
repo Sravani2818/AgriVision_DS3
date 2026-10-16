@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0265
+========================================================================
+Source Record ID: kcc_098b5edd9b6a664f
+Idx: 2487784
+Crop: Guinea Grass
+State: KERALA
+District: WAYANAD
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+Yellowing of leaves in CO 3
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended to spray urea 10 g per liter of water Kindly observe for any pest in soil and start of root decay

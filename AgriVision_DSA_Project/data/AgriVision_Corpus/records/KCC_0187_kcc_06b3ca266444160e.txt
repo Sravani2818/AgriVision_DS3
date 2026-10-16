@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0187
+========================================================================
+Source Record ID: kcc_06b3ca266444160e
+Idx: 1521017
+Crop: Cowpea Vegetable
+State: MAHARASHTRA
+District: JALGAON
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+asked leaf curl in cow pea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+leaf curl in cow pea -spray arena chocklate

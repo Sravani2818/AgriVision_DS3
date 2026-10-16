@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0323
+========================================================================
+Source Record ID: kcc_0c0766df444895a6
+Idx: 2401404
+Crop: Mint
+State: UTTAR PRADESH
+District: BADAUN
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT  SOWING TIME OF MINT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SOWING TIME OF MINT - JANUARY- FEBRUARY

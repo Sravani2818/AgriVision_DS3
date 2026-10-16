@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0134
+========================================================================
+Source Record ID: kcc_04fa76980e099036
+Idx: 1462921
+Crop: Apple
+State: JAMMU AND KASHMIR
+District: BARAMULLA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+INFORMATION REGARDING SPRAY OF FUNGICIDE AND INSECTICIDES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Myclobutanil 10 WP 30g  Chlorpyriphos 20 EC 100 ml

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0272
+========================================================================
+Source Record ID: kcc_09e914a4e1b723b3
+Idx: 3451507
+Crop: Indian Bean Vegetable
+State: UTTAR PRADESH
+District: SONBHADRA
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about control of the flower dropping in crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Alpha naphthyl acetic acid 45 SL  1 ml  45

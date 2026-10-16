@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0238
+========================================================================
+Source Record ID: kcc_088429683ec5b217
+Idx: 3516026
+Crop: Citrus
+State: ANDHRA PRADESH
+District: GUNTUR
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+FARMER ASKED QUERY ABOUT ZINC DEFICIENCY MANAGEMENT IN CITRUS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+ZINC SULPHATE 2 GRAMS  LITRE OF WATER

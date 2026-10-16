@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0280
+========================================================================
+Source Record ID: kcc_0a421bd99b3aee4c
+Idx: 3382722
+Crop: Napier Grass
+State: GUJARAT
+District: BHAVNAGAR
+Sector: AGRICULTURE
+Query Type: Weed Management
+
+FARMER QUERY
+--------------------
+Farmer asked weed control in napier grass crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+24 SL

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0369
+========================================================================
+Source Record ID: kcc_0dfe945f72fd8775
+Idx: 1361483
+Crop: Brinjal
+State: WEST BENGAL
+District: WEST MEDINIPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+CONTROL OF APPHID IN BRINJAL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED FOR SPRAY  DIMETHOATE 30 EC  2 ML   LIT OF WATER

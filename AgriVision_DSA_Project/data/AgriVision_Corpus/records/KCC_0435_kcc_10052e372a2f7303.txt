@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0435
+========================================================================
+Source Record ID: kcc_10052e372a2f7303
+Idx: 2033005
+Crop: Lab Lab
+State: TAMILNADU
+District: RAMANATHAPURAM
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: RABI
+
+FARMER QUERY
+--------------------
+asking for the soil testing lab in ramanthapuram district
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for the Deputy Director of HorticultureII Floor Joint Director of Agriculture Office buildingSedhupathy nagar [PHONE] and soil testing lab [PHONE] paramkudi and [PHONE] Pattinamkattan

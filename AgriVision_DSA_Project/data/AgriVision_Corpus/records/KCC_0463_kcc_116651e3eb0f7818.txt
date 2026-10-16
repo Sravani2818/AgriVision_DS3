@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0463
+========================================================================
+Source Record ID: kcc_116651e3eb0f7818
+Idx: 217934
+Crop: Neem
+State: ODISHA
+District: BALASORE
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+cultural practices medicinal plant
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+detail given

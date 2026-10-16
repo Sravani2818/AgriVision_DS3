@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0183
+========================================================================
+Source Record ID: kcc_06a76c4cf2461b68
+Idx: 1860224
+Crop: Chrysanthemum
+State: ANDHRA PRADESH
+District: ANANTPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+chrysanthemum wilt management
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY MANCOZEB   600 GRAMS  200 LITERS OF WATER  ACRE

@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0275
+========================================================================
+Source Record ID: kcc_09fce00f4a39b6b7
+Idx: 611605
+Crop: Senji
+State: PUNJAB
+District: GURDASPUR
+Sector: AGRICULTURE
+Query Type: Seeds
+Season: RABI
+
+FARMER QUERY
+--------------------
+INFORMATION REGARDING SEED RATE OF SENJI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SEED RATE OF SENJI IS 15 KG  ACRE

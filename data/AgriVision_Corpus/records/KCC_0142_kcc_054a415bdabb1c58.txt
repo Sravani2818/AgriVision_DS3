@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0142
+========================================================================
+Source Record ID: kcc_054a415bdabb1c58
+Idx: 481970
+Crop: Barnyard Millet KundiraivlliSawan
+State: KARNATAKA
+District: MANDYA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+ROOT ROT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY COC 2MLL

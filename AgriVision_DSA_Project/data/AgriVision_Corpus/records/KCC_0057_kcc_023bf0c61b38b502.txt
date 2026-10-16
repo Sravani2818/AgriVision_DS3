@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0057
+========================================================================
+Source Record ID: kcc_023bf0c61b38b502
+Idx: 2020149
+Crop: Mochai lab-lab
+State: TAMILNADU
+District: SALEM
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+asking about foliar nutrient spray for cowpea
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for spray Brassinolide 05 mllit of water

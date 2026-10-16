@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0259
+========================================================================
+Source Record ID: kcc_0937e7abf0070c72
+Idx: 150126
+Crop: Apple
+State: JAMMU AND KASHMIR
+District: ANANTNAG
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TIME OF FERTILIZER IN APPLE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+APPLY FERTILIZER DOSE IN THE MONTH OF MARCH

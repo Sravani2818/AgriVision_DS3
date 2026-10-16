@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0257
+========================================================================
+Source Record ID: kcc_0930ab96bd368da6
+Idx: 1012407
+Crop: Aonla
+State: MAHARASHTRA
+District: JALGAON
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+FOR BLOOSMING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Boom flower 20ml DeviCropscience15 liter of Water

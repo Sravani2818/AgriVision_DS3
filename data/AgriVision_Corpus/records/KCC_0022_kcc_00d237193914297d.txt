@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0022
+========================================================================
+Source Record ID: kcc_00d237193914297d
+Idx: 1811890
+Crop: Dharaf Grass
+State: UTTAR PRADESH
+District: SANT KABIR NAGAR
+Sector: AGRICULTURE
+Query Type: Organic Farming
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+dhaincha cultivation
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+incarporate in field at 30-40 days of showing

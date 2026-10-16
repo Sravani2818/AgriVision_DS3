@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0390
+========================================================================
+Source Record ID: kcc_0e973c70255e434d
+Idx: 2020309
+Crop: Jamun
+State: TAMILNADU
+District: SALEM
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+Asked about jamun high density planting
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for  highest under least population density 533 plantsacre 25 m x 3 m spacing

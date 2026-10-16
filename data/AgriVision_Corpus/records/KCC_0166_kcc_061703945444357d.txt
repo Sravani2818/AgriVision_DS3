@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0166
+========================================================================
+Source Record ID: kcc_061703945444357d
+Idx: 1014152
+Crop: Buffel Grass Anjan Grass
+State: MAHARASHTRA
+District: AHMADNAGAR
+Sector: AGRICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+fertilizer application in fodder crops
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+5 cartload  10 kg urea  40 kg phosphorous  10 kg potash acre

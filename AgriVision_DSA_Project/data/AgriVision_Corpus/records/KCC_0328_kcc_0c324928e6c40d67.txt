@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0328
+========================================================================
+Source Record ID: kcc_0c324928e6c40d67
+Idx: 2136371
+Crop: Cucumber
+State: WEST BENGAL
+District: BANKURA
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+ASKING ABOUT CUCUMBER VARITEY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+JAPANIS LONG GREENPOINTSETBARSATIBAROPATA

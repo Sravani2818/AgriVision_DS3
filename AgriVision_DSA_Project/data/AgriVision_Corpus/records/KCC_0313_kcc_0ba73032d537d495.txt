@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0313
+========================================================================
+Source Record ID: kcc_0ba73032d537d495
+Idx: 2277515
+Crop: Butter Pea Vegetable
+State: RAJASTHAN
+District: BARAN
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT INSACT CONTROL IN BHINDI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF DIMETHOATE  30 EC 2 ML PER LITER WATER

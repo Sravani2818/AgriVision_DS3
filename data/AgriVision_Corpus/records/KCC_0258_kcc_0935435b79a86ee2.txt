@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0258
+========================================================================
+Source Record ID: kcc_0935435b79a86ee2
+Idx: 56981
+Crop: African Sarson
+State: MADHYA PRADESH
+District: BHOPAL
+Sector: AGRICULTURE
+Query Type: Water Management
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+information to irrigation barseam crap
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+10-15DAS after sowing

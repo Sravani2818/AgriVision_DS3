@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0167
+========================================================================
+Source Record ID: kcc_0620b5ffadde57bd
+Idx: 1770728
+Crop: Colocasia Arvi Arbi
+State: UTTAR PRADESH
+District: SITAPUR
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+INFORMATION OF COLOCASIA CULTURAL PRACTICES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Use of Amino acid 8 kgacre  urea 8 kgacre before irrigation on surface root

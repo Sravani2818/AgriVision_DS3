@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0283
+========================================================================
+Source Record ID: kcc_0a605d18269b3187
+Idx: 884657
+Crop: Rajmash Bean
+State: BIHAR
+District: PURNEA
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: RABI
+
+FARMER QUERY
+--------------------
+SPACING OF RAJMAH
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spacing : 45 x 30 cm

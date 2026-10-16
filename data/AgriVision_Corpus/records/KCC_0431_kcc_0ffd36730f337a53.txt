@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0431
+========================================================================
+Source Record ID: kcc_0ffd36730f337a53
+Idx: 472797
+Crop: Pear
+State: JAMMU AND KASHMIR
+District: BADGAM
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+FARMER WANTS INFORMATION REGARDING THE CONTROL OF WOLLY APPLE APHIDS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY WITH METHYL-O-DEMETOM  80ML100LIT OF WATER

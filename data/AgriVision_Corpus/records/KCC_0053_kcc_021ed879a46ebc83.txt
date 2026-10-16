@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0053
+========================================================================
+Source Record ID: kcc_021ed879a46ebc83
+Idx: 1129690
+Crop: lobia
+State: RAJASTHAN
+District: JAIPUR
+Sector: HORTICULTURE
+Query Type: Soil Testing
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME CONTECT NUMBER OF SOIL TESTING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+PLZ CONTECT FOR SOIL TESTING NUMBER -[PHONE]

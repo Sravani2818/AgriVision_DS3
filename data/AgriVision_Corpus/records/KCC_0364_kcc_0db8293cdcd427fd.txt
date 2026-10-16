@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0364
+========================================================================
+Source Record ID: kcc_0db8293cdcd427fd
+Idx: 682745
+Crop: Snake Gourd
+State: TAMILNADU
+District: THOOTHUKUDI
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+Season: RABI
+
+FARMER QUERY
+--------------------
+snake gourd Boron Deficiency Symptoms
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray borax 5 gm litre

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0139
+========================================================================
+Source Record ID: kcc_0526bafcb5dcb607
+Idx: 2439194
+Crop: Kiwi Fruit
+State: BIHAR
+District: SUPAUL
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Cultural practices for kiwi fruit
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+:          6 x3        3          6    1x1x1        15  20                        6                                                             20 25

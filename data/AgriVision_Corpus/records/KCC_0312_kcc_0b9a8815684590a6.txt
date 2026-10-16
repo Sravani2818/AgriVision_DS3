@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0312
+========================================================================
+Source Record ID: kcc_0b9a8815684590a6
+Idx: 1221254
+Crop: Buck Wheat Kaspat
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: AGRICULTURE
+Query Type: Field Preparation
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+meathi  ki  kheti ki jankari  chahiye
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+methi  ki  kheti ki jankari  chahiye

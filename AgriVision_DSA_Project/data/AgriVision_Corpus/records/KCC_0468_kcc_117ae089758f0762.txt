@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0468
+========================================================================
+Source Record ID: kcc_117ae089758f0762
+Idx: 1094191
+Crop: Leafy Vegetable
+State: ODISHA
+District: NAWORANGPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+flower drop in leafy vegetable
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray planofix- 1 ml per 5 litre water

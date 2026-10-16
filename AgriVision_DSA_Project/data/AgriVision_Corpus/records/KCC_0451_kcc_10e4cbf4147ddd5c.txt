@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0451
+========================================================================
+Source Record ID: kcc_10e4cbf4147ddd5c
+Idx: 3170560
+Crop: White Yam
+State: ODISHA
+District: BALASORE
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Root rot in White yam
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended to apply plantomycin 1gm SAAFCarbendazim 12mancozeb 632gm in 1 litre water to control Root rot in White yam

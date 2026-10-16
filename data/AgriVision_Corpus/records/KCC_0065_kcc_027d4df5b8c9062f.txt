@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0065
+========================================================================
+Source Record ID: kcc_027d4df5b8c9062f
+Idx: 1662565
+Crop: Cashew
+State: TAMILNADU
+District: KANNIYA KUMARI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+Cashew nut leaf blight
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Recommended for spray carbendazim  mancozeb 2 gram liter of water

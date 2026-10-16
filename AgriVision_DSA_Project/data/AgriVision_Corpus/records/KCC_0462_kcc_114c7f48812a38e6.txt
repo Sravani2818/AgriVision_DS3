@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0462
+========================================================================
+Source Record ID: kcc_114c7f48812a38e6
+Idx: 1917126
+Crop: Greater Yam
+State: KERALA
+District: WAYANAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+GROUND NUT WEEDING
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+WEED SHOULD BE REMOVE BEFORE PEGGING STAGE

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0353
+========================================================================
+Source Record ID: kcc_0d33c0269f2dacd5
+Idx: 3457046
+Crop: Marigold
+State: GUJARAT
+District: JUNAGADH
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Farmer asked Larvae control information of marigold crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SG 7-8

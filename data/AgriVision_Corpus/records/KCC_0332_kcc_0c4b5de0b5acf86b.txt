@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0332
+========================================================================
+Source Record ID: kcc_0c4b5de0b5acf86b
+Idx: 1881063
+Crop: Bishops Weed
+State: GUJARAT
+District: SABARKANTHA
+Sector: HORTICULTURE
+Query Type: Field Preparation
+Season: RABI
+
+FARMER QUERY
+--------------------
+Ask about sucking pests problem in crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Suggested: Dimethoate Rogar 30 EC 20 mlpump spray Suitable for young crops

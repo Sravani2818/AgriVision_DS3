@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0056
+========================================================================
+Source Record ID: kcc_022b6af9c292ef67
+Idx: 311230
+Crop: Sunnhemp Patua
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+gane me suri lga rhai hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+carbofuran 10 kg acre

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0083
+========================================================================
+Source Record ID: kcc_0315493c21ef3b14
+Idx: 472640
+Crop: Pear
+State: JAMMU AND KASHMIR
+District: BADGAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+LEAVES FALL
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Dithionon 75 WP75 g1OOLT WATER

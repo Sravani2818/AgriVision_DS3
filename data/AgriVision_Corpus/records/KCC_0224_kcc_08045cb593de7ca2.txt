@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0224
+========================================================================
+Source Record ID: kcc_08045cb593de7ca2
+Idx: 928640
+Crop: Ribbed Gourd Kali Tori
+State: HARYANA
+District: KAITHAL
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+information regarding  how to control thirps in Ribbed gourd
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+spray 400 ml melathion in 200 litre wateracre

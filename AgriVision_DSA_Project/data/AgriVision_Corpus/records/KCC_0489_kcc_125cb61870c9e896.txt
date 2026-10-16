@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0489
+========================================================================
+Source Record ID: kcc_125cb61870c9e896
+Idx: 3241605
+Crop: Fennel
+State: RAJASTHAN
+District: TONK
+Sector: HORTICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+ASKED ABOUT TO NUTRIENT MANAGEMENT IN
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NPK 19:19:19   10

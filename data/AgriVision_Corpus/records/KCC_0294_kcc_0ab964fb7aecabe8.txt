@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0294
+========================================================================
+Source Record ID: kcc_0ab964fb7aecabe8
+Idx: 277007
+Crop: Fig
+State: RAJASTHAN
+District: HANUMANGARH
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+TELL ME ABOUT TERMITE IN TREE PLANT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+USE OF REGENT  1ML LITER WATER

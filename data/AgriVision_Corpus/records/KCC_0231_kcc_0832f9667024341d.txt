@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0231
+========================================================================
+Source Record ID: kcc_0832f9667024341d
+Idx: 2367066
+Crop: Smooth Guard
+State: DELHI
+District: New Delhi Connaught Place
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+TELL ME APHID CONTROL IN SMOOTH GOURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF THIOMETHOXAM 25 WG 05 GM  PER LITER WATER

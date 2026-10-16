@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0004
+========================================================================
+Source Record ID: kcc_0017d3d3d75e90c2
+Idx: 2715226
+Crop: Paddy Dhan
+State: UTTAR PRADESH
+District: AMETHI  Shahu Ji Maharaj
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Information about weather forecast of block- Jagdishpur in district-Sultanpur
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+31     05                       27C    31C     7 - 11

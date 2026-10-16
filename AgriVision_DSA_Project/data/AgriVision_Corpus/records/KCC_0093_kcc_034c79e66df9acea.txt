@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0093
+========================================================================
+Source Record ID: kcc_034c79e66df9acea
+Idx: 3259396
+Crop: Bengal Gram GramChick PeaKabuliChana
+State: BIHAR
+District: NALANDA
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+QUERY RELATED TO NUTRIENT MANAGEMENT IN PEA
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+3ML   2ML 1        N:PK 19:19:19 - 5   1

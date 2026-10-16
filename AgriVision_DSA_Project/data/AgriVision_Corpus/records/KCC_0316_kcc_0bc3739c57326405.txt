@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0316
+========================================================================
+Source Record ID: kcc_0bc3739c57326405
+Idx: 977149
+Crop: Black Gram urd bean
+State: MADHYA PRADESH
+District: AGAR
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+Farmer want to know information about  How to control aphids in paddy crop
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray imidaclorprid 178SL 5 to 6 ml per pump

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0212
+========================================================================
+Source Record ID: kcc_07b23973c1e474f1
+Idx: 2889711
+Crop: Sandal Wood
+State: RAJASTHAN
+District: JHUNJHUNU
+Sector: HORTICULTURE
+Query Type: Fertilizer Use and Availability
+
+FARMER QUERY
+--------------------
+TELL ME NUTRIENT MANAGEMENT  IN ASHOKA PLANT
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+NPK 12:32:16   100 -150        100

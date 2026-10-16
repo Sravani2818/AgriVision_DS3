@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0182
+========================================================================
+Source Record ID: kcc_0685dfd187f60508
+Idx: 2373729
+Crop: Smooth Guard
+State: GUJARAT
+District: KHEDA
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Ask about General information
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+All information provided - Thanks for calling in kisan call center

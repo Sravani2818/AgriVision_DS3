@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0097
+========================================================================
+Source Record ID: kcc_0384ead9d105d14b
+Idx: 224031
+Crop: Bitter Gourd
+State: ODISHA
+District: SAMBALPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+RED BEETLE
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPARY CHLOROPYRIPHOS 2MLL OR DICHLOROVOS 2MLL

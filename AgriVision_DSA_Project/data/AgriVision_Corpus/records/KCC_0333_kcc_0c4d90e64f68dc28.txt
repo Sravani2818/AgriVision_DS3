@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0333
+========================================================================
+Source Record ID: kcc_0c4d90e64f68dc28
+Idx: 853892
+Crop: Lilliums
+State: ANDHRA PRADESH
+District: ANANTPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+MITE ATTACK IN LILLIUMS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY SULPHUR  8-10 KG ACRE

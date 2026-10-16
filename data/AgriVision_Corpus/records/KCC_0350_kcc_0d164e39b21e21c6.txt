@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0350
+========================================================================
+Source Record ID: kcc_0d164e39b21e21c6
+Idx: 838480
+Crop: Ivy Gourd
+State: ANDHRA PRADESH
+District: PRAKASAM
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+leaf folder
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+avatar 400- 500 grams  acre

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0264
+========================================================================
+Source Record ID: kcc_097a8be5e5b1b380
+Idx: 1021186
+Crop: Sugar Beet
+State: MAHARASHTRA
+District: PUNE
+Sector: AGRICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+Attack of Caterpillar
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray Chloropyriphos 30ml15 Lit of Water

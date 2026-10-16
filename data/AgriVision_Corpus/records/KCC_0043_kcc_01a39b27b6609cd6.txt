@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0043
+========================================================================
+Source Record ID: kcc_01a39b27b6609cd6
+Idx: 3295424
+Crop: Pineapple
+State: ODISHA
+District: BALASORE
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+Pineapple queen variety seedlings
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+--Advised to visit the Block horticulture office or Krishi Vigyan Kendra

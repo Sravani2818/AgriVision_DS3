@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0344
+========================================================================
+Source Record ID: kcc_0cd2c3b8f0d61e5e
+Idx: 485614
+Crop: Rubber
+State: KERALA
+District: TRIVANDRUM
+Sector: HORTICULTURE
+Query Type: Soil Testing
+
+FARMER QUERY
+--------------------
+Soil Testing Lab
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Central Soil Testing LabParottukonamNalanchira POThiruvananthapuram-[PHONE]-2530578

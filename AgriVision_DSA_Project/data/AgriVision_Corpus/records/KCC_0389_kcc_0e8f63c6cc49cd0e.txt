@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0389
+========================================================================
+Source Record ID: kcc_0e8f63c6cc49cd0e
+Idx: 291635
+Crop: Rubber
+State: TAMILNADU
+District: KANNIYA KUMARI
+Sector: HORTICULTURE
+Query Type: Field Preparation
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+rubber season
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+rubber season june - july

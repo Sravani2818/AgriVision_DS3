@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0041
+========================================================================
+Source Record ID: kcc_018302900b39498f
+Idx: 340877
+Crop: Rose
+State: UTTAR PRADESH
+District: LUCKNOW
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+gulab ki kheti ke bare me jankari chahiye
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+gulab ki kheti ke bare me puri jankari di gayi

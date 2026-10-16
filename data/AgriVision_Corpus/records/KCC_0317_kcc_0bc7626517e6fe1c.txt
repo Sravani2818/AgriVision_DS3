@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0317
+========================================================================
+Source Record ID: kcc_0bc7626517e6fe1c
+Idx: 2143350
+Crop: Sweet Potato
+State: CHHATTISGARH
+District: Surajpur
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+Farmer want to know information about sowing of sweet potato
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Sowing the seeds-Its cultivation is done by cuttings of cutting in transplantation approximately 40000 to 45000 cutting or pieces are sufficient for one hectare I need to have at least 3 to 4 gaths in each cutting and keep cutting length 25 to 30 centimeters each Cutting for 8 to 10 minutes in the borax 25 percent solution and squeezing it after squeezing

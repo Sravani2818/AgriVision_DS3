@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0121
+========================================================================
+Source Record ID: kcc_0485b3b80b8517e7
+Idx: 1198070
+Crop: Spinach Palak
+State: UTTAR PRADESH
+District: SAHARANPUR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+palak me galan hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Copper oxychloride  25 gmliter pani

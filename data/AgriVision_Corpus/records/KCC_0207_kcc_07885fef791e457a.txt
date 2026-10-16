@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0207
+========================================================================
+Source Record ID: kcc_07885fef791e457a
+Idx: 884215
+Crop: KolanchiTephrosia Purpurea
+State: BIHAR
+District: PURNEA
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+problem yellowing of leaves
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Spray copper oxychloride  2 gram in 1 litre of water

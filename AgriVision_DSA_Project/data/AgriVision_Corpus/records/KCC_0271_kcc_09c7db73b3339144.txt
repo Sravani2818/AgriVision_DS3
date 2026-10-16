@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0271
+========================================================================
+Source Record ID: kcc_09c7db73b3339144
+Idx: 280643
+Crop: Chillies
+State: RAJASTHAN
+District: KARAULI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: JAYAD
+
+FARMER QUERY
+--------------------
+TELL ME CONTROL OF DAMPPING OFF IN CHILLI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY OF CARBENDAZIM 2 GM PER LITER WATER

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0223
+========================================================================
+Source Record ID: kcc_08041b79690f7464
+Idx: 1985450
+Crop: Chinese Cabbage
+State: ODISHA
+District: BARGARH
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+DOSE OF DICHLOROVOS
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+DOSE OF DICHLOROVOS-SPRAY 2ML PER 1LIT WATER

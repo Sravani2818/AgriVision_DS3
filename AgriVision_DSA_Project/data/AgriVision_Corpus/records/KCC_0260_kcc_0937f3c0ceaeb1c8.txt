@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0260
+========================================================================
+Source Record ID: kcc_0937f3c0ceaeb1c8
+Idx: 3020393
+Crop: Amarphophallus SurankandElephant Foot Yam
+State: ODISHA
+District: BHADRAK
+Sector: HORTICULTURE
+Query Type: Cultural Practices
+
+FARMER QUERY
+--------------------
+Varieties and Isolation distance
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Varieties of amarphophallus -M-15Isolation   distace - 3 ft3 ft Pit depth- 1 ft

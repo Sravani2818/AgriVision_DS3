@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0443
+========================================================================
+Source Record ID: kcc_1046b7fdcfc2451e
+Idx: 569951
+Crop: Cotton Kapas
+State: MAHARASHTRA
+District: YEVATMAL
+Sector: AGRICULTURE
+Query Type: Plant Protection
+Season: KHARIF
+
+FARMER QUERY
+--------------------
+attack of downey milldew on cotton
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+downey milldew on cotton- contaf plus 30 ml  15 lit of water

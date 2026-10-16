@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0066
+========================================================================
+Source Record ID: kcc_02853ab54f45d053
+Idx: 777861
+Crop: Persimmon
+State: UTTAR PRADESH
+District: CHANDAULI
+Sector: HORTICULTURE
+Query Type: Plant Protection
+Season: RABI
+
+FARMER QUERY
+--------------------
+fool jhad raha hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+planofix ka sprey kare025mlliter

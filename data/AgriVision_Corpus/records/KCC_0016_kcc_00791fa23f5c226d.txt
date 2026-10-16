@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0016
+========================================================================
+Source Record ID: kcc_00791fa23f5c226d
+Idx: 3733301
+Crop: Oats
+State: WEST BENGAL
+District: HOOGHLY
+Sector: AGRICULTURE
+Query Type: Nutrient Management
+
+FARMER QUERY
+--------------------
+ASKING ABOUT NUTRIENT MANAGEMENT IN PADDY
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+SPRAY    2 ML LIT OF WATER

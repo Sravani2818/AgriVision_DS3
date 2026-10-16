@@ -1,0 +1,19 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0453
+========================================================================
+Source Record ID: kcc_10fd2f15f5bb8456
+Idx: 2043592
+Crop: Winged Bean
+State: TAMILNADU
+District: TIRUVANNAMALAI
+Sector: AGRICULTURE
+Query Type: Cultural Practices
+Season: RABI
+
+FARMER QUERY
+--------------------
+sowing season and varieties  of Soybean
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+recommended for sowing season of Soybean is Masipattam February - March and varieties are Co 1 Irrigated Co 2 CoSoy 3

@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0109
+========================================================================
+Source Record ID: kcc_03eec087ef5fd20f
+Idx: 1218241
+Crop: Colocasia Arvi Arbi
+State: UTTAR PRADESH
+District: BAREILLY
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+arvi ki patti sikud rahi hai
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+imedacloprid 178-100 mlacre

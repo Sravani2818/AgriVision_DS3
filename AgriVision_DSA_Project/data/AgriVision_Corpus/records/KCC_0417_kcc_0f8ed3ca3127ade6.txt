@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0417
+========================================================================
+Source Record ID: kcc_0f8ed3ca3127ade6
+Idx: 2719649
+Crop: Periwinkle
+State: WEST BENGAL
+District: MURSHIDABAD
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+CONTROL OF STEM ROT IN EKANGI
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+50 WP   4

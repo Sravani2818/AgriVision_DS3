@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0397
+========================================================================
+Source Record ID: kcc_0ed96da8d9991ef0
+Idx: 1471423
+Crop: Garlic
+State: KARNATAKA
+District: HASSAN
+Sector: HORTICULTURE
+Query Type: Seeds and Planting Material
+
+FARMER QUERY
+--------------------
+VARITIES
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+Gavrli Rajallegaddi

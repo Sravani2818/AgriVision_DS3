@@ -1,0 +1,18 @@
+========================================================================
+AGRIVISION AGRICULTURAL TEXT RECORD 0392
+========================================================================
+Source Record ID: kcc_0e99996877a44a28
+Idx: 587741
+Crop: Bitter Gourd
+State: ODISHA
+District: KEONJHAR
+Sector: HORTICULTURE
+Query Type: Plant Protection
+
+FARMER QUERY
+--------------------
+PLANT GROWTH REGULATOR IN BITTER GOURD
+
+AGRICULTURAL ADVISORY / ANSWER
+------------------------------
+RECOMMENDED TO SPRAY MIRACULAN 1ML1 LITER OF WATER
